@@ -1,13 +1,12 @@
-from flask import Flask, request, jsonify
-from flask_cors import CORS  # Import CORS
-
+from flask import Flask, request
+import json
+from flask_cors import CORS
 import numpy as np
 from joblib import load
 from tensorflow.keras.models import load_model
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
-
+CORS(app)
 # Load the pre-trained LSTM model
 model = load_model('model.h5')
 
@@ -33,7 +32,12 @@ def predict_next_days_api():
             )
         predictions = scaler.inverse_transform([predictions])
         predictions = np.floor(predictions)
-        return jsonify(predictions.tolist())
+        dir = {}
+        day= 1
+        for pred in predictions[0]:
+            dir[f'Day{day}'] = pred
+            day+=1
+        return json.dumps(dir)
 
     except Exception as e:
         error_message = str(e)
