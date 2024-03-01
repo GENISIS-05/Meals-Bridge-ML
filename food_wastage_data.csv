@@ -1,0 +1,1783 @@
+Type of Food,Food Prepared,Event Type,Food Consumed,Storage Conditions,Purchase History,Seasonality,Preparation Method,Geographical Location,Pricing,Wastage Food Amount
+Meat,950,Corporate,710,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,240
+Meat,1000,Birthday,800,Room Temperature,Regular,Winter,Buffet,Suburban,High,200
+Vegetables,871,Birthday,702,Refrigerated,Regular,Summer,Buffet,Suburban,Low,169
+Meat,997,Birthday,891,Refrigerated,Regular,All Seasons,Finger Food,Rural,High,106
+Meat,900,Corporate,700,Refrigerated,Regular,Winter,Finger Food,Urban,Moderate,200
+Meat,871,Birthday,702,Refrigerated,Regular,Summer,Buffet,Suburban,Low,169
+Meat,950,Wedding,640,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,310
+Meat,900,Wedding,700,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,200
+Fruits,900,Corporate,720,Refrigerated,Regular,All Seasons,Buffet,Urban,High,180
+Meat,1000,Corporate,800,Refrigerated,Occasional,Winter,Finger Food,Urban,High,200
+Fruits,900,Wedding,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Meat,871,Birthday,702,Room Temperature,Regular,Winter,Buffet,Suburban,Low,169
+Meat,1000,Wedding,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Urban,Low,200
+Meat,850,Social Gathering,650,Room Temperature,Regular,Winter,Buffet,Urban,Low,200
+Fruits,893,Corporate,667,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,226
+Meat,950,Wedding,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Fruits,900,Birthday,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,200
+Fruits,1000,Wedding,780,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,220
+Fruits,950,Birthday,700,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Low,250
+Meat,800,Social Gathering,620,Room Temperature,Regular,Winter,Buffet,Suburban,Low,180
+Meat,950,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,330
+Vegetables,800,Corporate,620,Refrigerated,Regular,Winter,Finger Food,Suburban,Low,180
+Meat,950,Corporate,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,900,Wedding,720,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,180
+Fruits,1000,Wedding,800,Refrigerated,Regular,All Seasons,Finger Food,Urban,High,200
+Baked Goods,900,Corporate,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Meat,1000,Birthday,800,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Meat,782,Wedding,608,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,Moderate,174
+Meat,850,Birthday,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Meat,900,Corporate,780,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,120
+Meat,993,Corporate,838,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,155
+Fruits,950,Corporate,750,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Low,200
+Meat,800,Corporate,620,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,180
+Fruits,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Vegetables,850,Social Gathering,680,Room Temperature,Regular,Summer,Buffet,Urban,Low,170
+Meat,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Fruits,997,Wedding,891,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,106
+Fruits,1000,Birthday,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,850,Birthday,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Meat,900,Corporate,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,959,Corporate,839,Room Temperature,Regular,Summer,Buffet,Suburban,Low,120
+Fruits,950,Corporate,640,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,310
+Baked Goods,900,Birthday,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,200
+Fruits,850,Corporate,680,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,170
+Fruits,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Meat,950,Social Gathering,800,Refrigerated,Regular,All Seasons,Buffet,Urban,Moderate,150
+Fruits,995,Birthday,834,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,161
+Fruits,900,Corporate,700,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,200
+Fruits,874,Social Gathering,690,Room Temperature,Regular,Winter,Finger Food,Urban,Low,184
+Dairy Products,900,Birthday,700,Room Temperature,Regular,Winter,Finger Food,Urban,Low,200
+Meat,900,Social Gathering,720,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,180
+Meat,1000,Social Gathering,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,850,Birthday,680,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Baked Goods,1000,Corporate,780,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,220
+Meat,980,Birthday,780,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate,200
+Meat,1000,Wedding,800,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,900,Birthday,720,Refrigerated,Regular,All Seasons,Buffet,Suburban,High,180
+Vegetables,850,Wedding,680,Refrigerated,Regular,Winter,Finger Food,Urban,Low,170
+Vegetables,900,Birthday,720,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Fruits,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,200
+Vegetables,950,Corporate,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,850,Wedding,650,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Vegetables,850,Corporate,680,Refrigerated,Occasional,Summer,Finger Food,Urban,Moderate,170
+Baked Goods,1000,Birthday,850,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,150
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,Summer,Buffet,Urban,Low,200
+Fruits,1000,Wedding,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,370
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,982,Wedding,842,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,140
+Baked Goods,850,Birthday,650,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Vegetables,850,Social Gathering,710,Refrigerated,Regular,Winter,Finger Food,Rural,High,140
+Fruits,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Dairy Products,950,Corporate,750,Room Temperature,Regular,Summer,Finger Food,Urban,High,200
+Meat,1000,Social Gathering,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Fruits,900,Corporate,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,180
+Vegetables,950,Wedding,750,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,High,200
+Meat,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,170
+Meat,950,Social Gathering,750,Refrigerated,Occasional,All Seasons,Finger Food,Rural,High,200
+Baked Goods,871,Social Gathering,702,Room Temperature,Regular,Summer,Buffet,Suburban,Low,169
+Fruits,993,Corporate,838,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,155
+Baked Goods,850,Corporate,710,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,140
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Fruits,900,Birthday,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Baked Goods,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,170
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,200
+Vegetables,850,Corporate,650,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Fruits,950,Corporate,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,950,Corporate,750,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Baked Goods,1000,Corporate,780,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,220
+Dairy Products,980,Corporate,650,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,330
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Summer,Buffet,Suburban,High,200
+Fruits,850,Wedding,650,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Corporate,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Meat,900,Social Gathering,700,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,950,Social Gathering,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,850,Corporate,680,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,170
+Fruits,1000,Social Gathering,780,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,220
+Dairy Products,950,Birthday,640,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,310
+Baked Goods,982,Wedding,797,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,185
+Baked Goods,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,900,Corporate,720,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Vegetables,1000,Social Gathering,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Dairy Products,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,950,Corporate,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,Summer,Buffet,Rural,Moderate,200
+Baked Goods,850,Birthday,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Vegetables,874,Social Gathering,690,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,184
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,170
+Vegetables,950,Corporate,750,Refrigerated,Regular,Summer,Buffet,Urban,High,200
+Fruits,980,Wedding,667,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,Low,313
+Fruits,874,Birthday,690,Refrigerated,Occasional,Winter,Finger Food,Rural,Low,184
+Fruits,950,Wedding,700,Room Temperature,Regular,Summer,Finger Food,Urban,High,250
+Meat,1000,Wedding,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Fruits,850,Birthday,650,Room Temperature,Regular,Summer,Finger Food,Rural,High,200
+Vegetables,850,Birthday,710,Refrigerated,Regular,Summer,Finger Food,Rural,High,140
+Meat,874,Social Gathering,690,Refrigerated,Regular,Summer,Finger Food,Rural,Low,184
+Meat,850,Birthday,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Summer,Buffet,Suburban,Low,180
+Meat,1000,Birthday,800,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Vegetables,850,Corporate,650,Refrigerated,Occasional,Summer,Buffet,Suburban,Low,200
+Vegetables,950,Corporate,750,Refrigerated,Regular,Summer,Finger Food,Urban,High,200
+Meat,900,Birthday,700,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Low,200
+Meat,850,Birthday,650,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,200
+Meat,850,Wedding,661,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,189
+Meat,1000,Wedding,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Vegetables,950,Wedding,750,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,900,Social Gathering,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Fruits,900,Wedding,700,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,Moderate,200
+Vegetables,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Rural,Low,170
+Meat,800,Wedding,620,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,180
+Vegetables,900,Corporate,700,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,200
+Meat,850,Wedding,650,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,170
+Baked Goods,900,Social Gathering,780,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,120
+Dairy Products,900,Corporate,720,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,180
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,1000,Corporate,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,370
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,1000,Social Gathering,780,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,220
+Dairy Products,905,Social Gathering,742,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,163
+Fruits,1000,Wedding,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,888,Wedding,675,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,213
+Vegetables,800,Social Gathering,620,Refrigerated,Regular,Winter,Finger Food,Urban,Low,180
+Baked Goods,900,Wedding,680,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,220
+Vegetables,1000,Corporate,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Urban,High,200
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Dairy Products,1000,Wedding,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Low,200
+Meat,950,Social Gathering,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,950,Corporate,700,Room Temperature,Regular,Winter,Finger Food,Urban,High,250
+Fruits,950,Corporate,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,250
+Dairy Products,989,Social Gathering,872,Room Temperature,Regular,Summer,Buffet,Urban,Low,117
+Fruits,982,Wedding,797,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,185
+Dairy Products,959,Birthday,839,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,120
+Vegetables,800,Corporate,620,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,180
+Fruits,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,920,Corporate,700,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,220
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Corporate,680,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,170
+Baked Goods,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,200
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,850,Wedding,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,50
+Meat,950,Social Gathering,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,850,Social Gathering,650,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,950,Corporate,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,874,Social Gathering,690,Room Temperature,Regular,Winter,Finger Food,Rural,Low,184
+Dairy Products,850,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,50
+Dairy Products,850,Corporate,680,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,170
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,200
+Meat,1000,Wedding,800,Refrigerated,Occasional,Winter,Sit-down Dinner,Rural,High,200
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Winter,Buffet,Rural,High,180
+Fruits,950,Corporate,710,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,240
+Vegetables,800,Wedding,620,Refrigerated,Occasional,Summer,Finger Food,Rural,Low,180
+Vegetables,920,Social Gathering,767,Refrigerated,Regular,Summer,Buffet,Urban,Low,153
+Meat,950,Birthday,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,1000,Wedding,650,Room Temperature,Regular,Winter,Buffet,Urban,High,350
+Dairy Products,989,Corporate,872,Room Temperature,Regular,Winter,Buffet,Urban,Low,117
+Baked Goods,850,Wedding,650,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,200
+Fruits,950,Social Gathering,620,Refrigerated,Regular,Summer,Finger Food,Rural,Low,330
+Vegetables,980,Corporate,780,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate,200
+Meat,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Fruits,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,900,Birthday,780,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,120
+Baked Goods,850,Birthday,650,Room Temperature,Regular,Winter,Buffet,Rural,Moderate,200
+Meat,950,Birthday,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Fruits,997,Birthday,891,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,106
+Fruits,980,Birthday,780,Room Temperature,Occasional,Summer,Buffet,Suburban,Moderate,200
+Meat,970,Social Gathering,692,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,278
+Vegetables,1000,Birthday,800,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,200
+Baked Goods,950,Birthday,700,Room Temperature,Regular,Summer,Finger Food,Suburban,High,250
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Dairy Products,850,Corporate,650,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,200
+Baked Goods,800,Corporate,620,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,180
+Fruits,1000,Corporate,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,370
+Vegetables,900,Birthday,720,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Baked Goods,1000,Corporate,850,Room Temperature,Occasional,Summer,Finger Food,Urban,High,150
+Fruits,1000,Corporate,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,905,Corporate,742,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,163
+Dairy Products,850,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,50
+Vegetables,800,Corporate,620,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,180
+Vegetables,950,Birthday,640,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate,310
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,200
+Dairy Products,900,Birthday,700,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Dairy Products,998,Corporate,888,Room Temperature,Regular,Summer,Finger Food,Suburban,High,110
+Baked Goods,950,Birthday,750,Room Temperature,Occasional,All Seasons,Finger Food,Rural,High,200
+Meat,1000,Birthday,630,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,Moderate,370
+Meat,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Wedding,680,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,170
+Fruits,1000,Wedding,800,Room Temperature,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,200
+Baked Goods,900,Birthday,780,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,120
+Fruits,850,Social Gathering,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,900,Social Gathering,720,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,900,Corporate,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Dairy Products,850,Birthday,650,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Dairy Products,980,Corporate,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,300
+Dairy Products,1000,Social Gathering,850,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,150
+Dairy Products,950,Wedding,750,Room Temperature,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Vegetables,900,Social Gathering,700,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,200
+Baked Goods,950,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,330
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Dairy Products,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,848,Social Gathering,647,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,201
+Dairy Products,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,50
+Meat,900,Birthday,720,Refrigerated,Regular,Winter,Buffet,Rural,High,180
+Meat,900,Wedding,680,Refrigerated,Regular,Winter,Buffet,Urban,Moderate,220
+Meat,900,Corporate,720,Room Temperature,Regular,Summer,Buffet,Urban,High,180
+Meat,950,Corporate,710,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,240
+Meat,950,Birthday,750,Refrigerated,Regular,Summer,Finger Food,Suburban,Low,200
+Meat,850,Wedding,800,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,High,50
+Meat,950,Birthday,750,Refrigerated,Regular,Winter,Finger Food,Suburban,High,200
+Meat,950,Birthday,750,Refrigerated,Regular,Winter,Finger Food,Suburban,High,200
+Meat,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,900,Wedding,720,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,180
+Fruits,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,995,Social Gathering,834,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,161
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Meat,980,Birthday,720,Refrigerated,Regular,Winter,Buffet,Rural,High,260
+Meat,950,Corporate,750,Refrigerated,Occasional,Summer,Buffet,Urban,High,200
+Meat,1000,Corporate,800,Refrigerated,Occasional,Winter,Buffet,Rural,High,200
+Meat,850,Birthday,710,Refrigerated,Regular,Winter,Finger Food,Rural,High,140
+Meat,1000,Wedding,780,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,220
+Meat,800,Wedding,620,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Meat,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Urban,Low,180
+Fruits,850,Wedding,710,Refrigerated,Regular,All Seasons,Finger Food,Rural,High,140
+Meat,995,Birthday,834,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,161
+Fruits,998,Corporate,888,Room Temperature,Regular,Summer,Finger Food,Rural,High,110
+Fruits,888,Corporate,675,Room Temperature,Regular,Winter,Finger Food,Urban,Low,213
+Meat,900,Wedding,700,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate,200
+Meat,800,Wedding,620,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,180
+Meat,950,Corporate,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,200
+Meat,1000,Wedding,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Meat,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,180
+Meat,800,Birthday,620,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,180
+Vegetables,950,Birthday,750,Room Temperature,Regular,Summer,Finger Food,Urban,High,200
+Vegetables,800,Corporate,620,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,180
+Baked Goods,800,Birthday,620,Room Temperature,Regular,Summer,Finger Food,Urban,Low,180
+Dairy Products,900,Birthday,700,Room Temperature,Regular,Summer,Buffet,Suburban,Low,200
+Vegetables,850,Corporate,680,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate,170
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Summer,Finger Food,Urban,Low,200
+Fruits,850,Corporate,680,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,170
+Baked Goods,900,Wedding,720,Room Temperature,Occasional,Summer,Buffet,Rural,High,180
+Meat,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,170
+Meat,780,Corporate,607,Room Temperature,Regular,Winter,Finger Food,Suburban,High,173
+Fruits,888,Corporate,675,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,213
+Vegetables,850,Wedding,800,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,50
+Meat,850,Wedding,650,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Meat,1000,Birthday,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,950,Birthday,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Baked Goods,900,Wedding,700,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,200
+Meat,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,850,Birthday,650,Room Temperature,Regular,All Seasons,Buffet,Rural,Moderate,200
+Fruits,900,Birthday,720,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,180
+Baked Goods,970,Wedding,692,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,278
+Dairy Products,950,Birthday,750,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Low,200
+Vegetables,900,Wedding,720,Refrigerated,Regular,Winter,Buffet,Rural,High,180
+Fruits,989,Birthday,872,Room Temperature,Regular,Summer,Buffet,Urban,Low,117
+Meat,900,Corporate,720,Refrigerated,Regular,Winter,Finger Food,Urban,Low,180
+Fruits,900,Wedding,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Meat,984,Wedding,853,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,131
+Dairy Products,874,Wedding,690,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,184
+Dairy Products,950,Birthday,750,Room Temperature,Regular,Summer,Sit-down Dinner,Rural,High,200
+Fruits,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Fruits,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,900,Corporate,680,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,220
+Baked Goods,850,Wedding,650,Room Temperature,Regular,Summer,Finger Food,Rural,High,200
+Fruits,900,Corporate,720,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,180
+Meat,950,Wedding,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,893,Wedding,667,Room Temperature,Regular,Summer,Sit-down Dinner,Rural,Low,226
+Baked Goods,1000,Corporate,850,Room Temperature,Regular,Summer,Finger Food,Urban,High,150
+Meat,800,Wedding,620,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Meat,900,Wedding,700,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,200
+Fruits,900,Birthday,720,Room Temperature,Occasional,Winter,Buffet,Rural,High,180
+Meat,1000,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,High,200
+Meat,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,952,Wedding,842,Room Temperature,Occasional,All Seasons,Sit-down Dinner,Suburban,Low,110
+Baked Goods,848,Birthday,647,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,201
+Baked Goods,900,Birthday,780,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,120
+Fruits,900,Wedding,720,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,180
+Meat,874,Social Gathering,690,Refrigerated,Regular,All Seasons,Finger Food,Rural,Low,184
+Fruits,900,Birthday,720,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Vegetables,993,Birthday,838,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,155
+Dairy Products,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Urban,Low,170
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Low,170
+Dairy Products,850,Wedding,680,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,170
+Baked Goods,1000,Birthday,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,950,Wedding,750,Room Temperature,Occasional,Summer,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,800,Wedding,620,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,180
+Dairy Products,900,Corporate,660,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,Low,240
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Baked Goods,978,Social Gathering,812,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,166
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,180
+Meat,1000,Corporate,630,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,370
+Baked Goods,950,Birthday,750,Room Temperature,Regular,Summer,Finger Food,Suburban,High,200
+Baked Goods,871,Corporate,702,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,169
+Baked Goods,998,Corporate,888,Room Temperature,Regular,Summer,Finger Food,Suburban,High,110
+Vegetables,950,Corporate,750,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,950,Corporate,710,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,240
+Fruits,850,Birthday,680,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,170
+Meat,850,Wedding,650,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Meat,1000,Wedding,630,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Low,370
+Meat,850,Birthday,650,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Vegetables,782,Social Gathering,608,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,174
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Meat,850,Birthday,650,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Fruits,900,Wedding,660,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,240
+Meat,900,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,200
+Dairy Products,900,Wedding,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,100
+Baked Goods,1000,Birthday,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,950,Social Gathering,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Winter,Finger Food,Rural,High,200
+Baked Goods,900,Corporate,720,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Wedding,670,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,230
+Dairy Products,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,170
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Vegetables,800,Corporate,620,Refrigerated,Occasional,All Seasons,Finger Food,Suburban,Moderate,180
+Baked Goods,848,Corporate,647,Room Temperature,Occasional,Summer,Finger Food,Suburban,Moderate,201
+Fruits,900,Social Gathering,720,Refrigerated,Occasional,Winter,Buffet,Rural,High,180
+Dairy Products,900,Birthday,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Fruits,1000,Birthday,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,350
+Dairy Products,900,Corporate,720,Room Temperature,Regular,Winter,Buffet,Urban,High,180
+Meat,800,Birthday,620,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,180
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,170
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Dairy Products,900,Corporate,720,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Baked Goods,848,Corporate,647,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,201
+Dairy Products,850,Corporate,680,Room Temperature,Occasional,Winter,Finger Food,Suburban,Moderate,170
+Baked Goods,848,Social Gathering,647,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,201
+Baked Goods,1000,Wedding,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,370
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,950,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,330
+Dairy Products,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,950,Corporate,750,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,Moderate,200
+Vegetables,982,Social Gathering,797,Refrigerated,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,185
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Dairy Products,850,Birthday,661,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,189
+Baked Goods,874,Birthday,690,Room Temperature,Regular,Summer,Finger Food,Rural,Low,184
+Vegetables,900,Corporate,700,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,950,Corporate,750,Refrigerated,Occasional,Winter,Sit-down Dinner,Rural,Moderate,200
+Dairy Products,900,Wedding,720,Room Temperature,Regular,All Seasons,Buffet,Urban,High,180
+Meat,1000,Wedding,800,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,Summer,Finger Food,Rural,High,200
+Meat,980,Social Gathering,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Meat,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,200
+Meat,950,Social Gathering,750,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Dairy Products,950,Corporate,750,Room Temperature,Regular,Winter,Finger Food,Urban,High,200
+Fruits,850,Corporate,710,Room Temperature,Occasional,All Seasons,Finger Food,Urban,High,140
+Baked Goods,1000,Birthday,850,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,150
+Baked Goods,848,Corporate,647,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,201
+Meat,1000,Corporate,800,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,800,Wedding,620,Room Temperature,Occasional,Summer,Finger Food,Suburban,High,180
+Fruits,850,Social Gathering,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Vegetables,900,Social Gathering,700,Room Temperature,Regular,Summer,Finger Food,Rural,Low,200
+Fruits,905,Social Gathering,742,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,163
+Dairy Products,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,170
+Baked Goods,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,850,Social Gathering,650,Room Temperature,Occasional,Summer,Buffet,Suburban,Low,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,180
+Baked Goods,900,Corporate,720,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Vegetables,850,Social Gathering,650,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,950,Corporate,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,959,Social Gathering,839,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,120
+Dairy Products,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Dairy Products,850,Wedding,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,180
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Summer,Finger Food,Suburban,High,200
+Fruits,1000,Social Gathering,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,370
+Dairy Products,950,Birthday,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,950,Social Gathering,800,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,150
+Fruits,800,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Fruits,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Fruits,980,Birthday,720,Refrigerated,Regular,Summer,Buffet,Rural,High,260
+Meat,800,Wedding,620,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,180
+Meat,995,Wedding,834,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,161
+Vegetables,989,Corporate,872,Refrigerated,Occasional,Winter,Buffet,Urban,Low,117
+Meat,850,Corporate,650,Room Temperature,Regular,Winter,Finger Food,Urban,High,200
+Fruits,800,Wedding,620,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,180
+Meat,900,Corporate,720,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Vegetables,950,Wedding,750,Refrigerated,Occasional,Summer,Finger Food,Rural,High,200
+Meat,900,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,100
+Fruits,980,Corporate,720,Refrigerated,Occasional,All Seasons,Buffet,Suburban,High,260
+Vegetables,850,Corporate,680,Refrigerated,Regular,Winter,Buffet,Suburban,Moderate,170
+Fruits,970,Birthday,692,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,278
+Meat,782,Wedding,608,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Moderate,174
+Fruits,850,Corporate,650,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Meat,900,Birthday,720,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Meat,900,Corporate,720,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,180
+Vegetables,800,Wedding,620,Refrigerated,Occasional,Summer,Finger Food,Rural,Moderate,180
+Baked Goods,871,Corporate,702,Room Temperature,Occasional,Winter,Buffet,Suburban,Low,169
+Vegetables,850,Social Gathering,650,Refrigerated,Regular,Summer,Buffet,Rural,Moderate,200
+Baked Goods,893,Wedding,667,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,226
+Fruits,984,Wedding,853,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,131
+Vegetables,1000,Social Gathering,800,Room Temperature,Regular,Summer,Buffet,Rural,High,200
+Meat,900,Wedding,700,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,180
+Baked Goods,980,Birthday,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,280
+Fruits,850,Social Gathering,680,Refrigerated,Regular,All Seasons,Finger Food,Rural,Low,170
+Dairy Products,874,Corporate,690,Room Temperature,Regular,Winter,Finger Food,Rural,Low,184
+Meat,993,Corporate,838,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,Moderate,155
+Baked Goods,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Vegetables,950,Corporate,700,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,250
+Baked Goods,900,Corporate,700,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,200
+Dairy Products,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,893,Social Gathering,667,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,226
+Fruits,900,Birthday,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Meat,905,Social Gathering,742,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,163
+Fruits,950,Birthday,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Rural,High,200
+Vegetables,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Vegetables,900,Social Gathering,720,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,180
+Dairy Products,997,Birthday,891,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,106
+Fruits,850,Wedding,650,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,Moderate,200
+Meat,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Rural,Low,180
+Baked Goods,980,Social Gathering,780,Room Temperature,Regular,Summer,Buffet,Suburban,Moderate,200
+Vegetables,850,Wedding,650,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,900,Corporate,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,250
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Baked Goods,950,Wedding,640,Room Temperature,Occasional,All Seasons,Sit-down Dinner,Suburban,Low,310
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Dairy Products,984,Corporate,853,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,131
+Dairy Products,980,Social Gathering,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Baked Goods,1000,Social Gathering,780,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,220
+Dairy Products,850,Birthday,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Vegetables,800,Social Gathering,620,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,900,Social Gathering,670,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,230
+Dairy Products,900,Social Gathering,680,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,220
+Baked Goods,782,Social Gathering,608,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Moderate,174
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Dairy Products,905,Social Gathering,742,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,163
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,850,Social Gathering,710,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,140
+Baked Goods,900,Social Gathering,780,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,120
+Baked Goods,995,Social Gathering,834,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,161
+Meat,943,Wedding,684,Refrigerated,Regular,Summer,Buffet,Urban,Low,259
+Meat,850,Wedding,650,Refrigerated,Regular,Summer,Buffet,Urban,Low,200
+Meat,980,Wedding,650,Refrigerated,Regular,Summer,Finger Food,Rural,Low,330
+Meat,850,Birthday,680,Room Temperature,Regular,Winter,Finger Food,Urban,Low,170
+Meat,900,Corporate,700,Refrigerated,Occasional,Winter,Finger Food,Urban,Low,200
+Meat,1000,Birthday,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,900,Corporate,700,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,950,Corporate,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,1000,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,High,200
+Fruits,850,Corporate,710,Room Temperature,Regular,Summer,Finger Food,Urban,High,140
+Meat,850,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,50
+Meat,780,Corporate,607,Room Temperature,Regular,Summer,Finger Food,Suburban,High,173
+Fruits,1000,Wedding,780,Refrigerated,Occasional,Winter,Sit-down Dinner,Urban,High,220
+Meat,871,Social Gathering,702,Room Temperature,Regular,Winter,Buffet,Suburban,Low,169
+Dairy Products,850,Corporate,650,Room Temperature,Regular,Winter,Buffet,Urban,Low,200
+Baked Goods,850,Birthday,680,Room Temperature,Regular,Winter,Finger Food,Rural,Low,170
+Vegetables,950,Birthday,750,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,800,Wedding,620,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,180
+Vegetables,900,Birthday,700,Refrigerated,Occasional,Winter,Finger Food,Suburban,Low,200
+Meat,950,Social Gathering,700,Refrigerated,Regular,Summer,Finger Food,Suburban,High,250
+Fruits,850,Corporate,650,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate,200
+Vegetables,950,Wedding,750,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,982,Wedding,842,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,140
+Fruits,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Dairy Products,850,Birthday,710,Room Temperature,Regular,Winter,Finger Food,Rural,High,140
+Baked Goods,888,Wedding,675,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,213
+Fruits,850,Social Gathering,710,Room Temperature,Regular,Winter,Finger Food,Rural,High,140
+Baked Goods,800,Birthday,620,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Dairy Products,980,Wedding,780,Room Temperature,Regular,Summer,Buffet,Suburban,Moderate,200
+Dairy Products,997,Wedding,891,Room Temperature,Occasional,Summer,Finger Food,Rural,High,106
+Dairy Products,850,Birthday,650,Room Temperature,Occasional,Winter,Buffet,Rural,Moderate,200
+Vegetables,850,Corporate,650,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Fruits,800,Corporate,620,Refrigerated,Occasional,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,900,Corporate,700,Room Temperature,Occasional,All Seasons,Finger Food,Rural,Moderate,200
+Baked Goods,850,Corporate,650,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Meat,900,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Meat,782,Social Gathering,608,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,174
+Baked Goods,993,Corporate,838,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,155
+Vegetables,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,170
+Baked Goods,780,Corporate,607,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,173
+Vegetables,984,Social Gathering,853,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,131
+Baked Goods,980,Social Gathering,780,Room Temperature,Regular,Summer,Buffet,Suburban,Moderate,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,200
+Vegetables,850,Corporate,680,Refrigerated,Occasional,All Seasons,Finger Food,Suburban,Moderate,170
+Dairy Products,900,Social Gathering,800,Room Temperature,Regular,Summer,Finger Food,Rural,High,100
+Dairy Products,850,Corporate,650,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Buffet,Rural,Moderate,200
+Dairy Products,850,Corporate,650,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Vegetables,850,Social Gathering,650,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,Moderate,200
+Dairy Products,905,Social Gathering,742,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,163
+Vegetables,1000,Corporate,800,Room Temperature,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Birthday,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,997,Social Gathering,891,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,106
+Dairy Products,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Dairy Products,1000,Social Gathering,780,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,220
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,1000,Corporate,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,370
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Meat,900,Wedding,700,Refrigerated,Regular,Summer,Buffet,Suburban,High,200
+Meat,900,Wedding,700,Refrigerated,Regular,Summer,Finger Food,Urban,Low,200
+Meat,871,Wedding,702,Refrigerated,Occasional,Summer,Buffet,Suburban,Low,169
+Vegetables,989,Birthday,872,Refrigerated,Regular,Summer,Buffet,Urban,Low,117
+Meat,900,Corporate,700,Refrigerated,Occasional,Winter,Buffet,Suburban,High,200
+Vegetables,850,Wedding,650,Refrigerated,Regular,Winter,Buffet,Suburban,Low,200
+Meat,874,Corporate,690,Refrigerated,Regular,Winter,Finger Food,Suburban,Low,184
+Meat,995,Corporate,834,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,161
+Fruits,850,Corporate,680,Refrigerated,Occasional,Summer,Finger Food,Urban,Low,170
+Fruits,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,950,Wedding,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,850,Corporate,650,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Vegetables,950,Wedding,750,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,High,200
+Meat,950,Corporate,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,200
+Vegetables,850,Wedding,680,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate,170
+Fruits,871,Corporate,702,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,169
+Meat,850,Corporate,650,Room Temperature,Regular,Winter,Buffet,Urban,Low,200
+Meat,850,Birthday,680,Refrigerated,Regular,Summer,Finger Food,Rural,Low,170
+Meat,900,Birthday,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Fruits,850,Corporate,650,Room Temperature,Regular,Winter,Buffet,Urban,Low,200
+Meat,980,Birthday,780,Refrigerated,Regular,Winter,Buffet,Suburban,Moderate,200
+Meat,980,Corporate,780,Room Temperature,Occasional,Summer,Buffet,Suburban,Moderate,200
+Meat,850,Corporate,680,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,170
+Vegetables,995,Corporate,834,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,High,161
+Meat,1000,Birthday,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Meat,850,Social Gathering,650,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate,200
+Vegetables,980,Social Gathering,720,Refrigerated,Occasional,Winter,Buffet,Rural,High,260
+Baked Goods,982,Wedding,842,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,140
+Vegetables,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,200
+Vegetables,850,Birthday,680,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,170
+Baked Goods,980,Birthday,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Fruits,970,Corporate,692,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,278
+Vegetables,900,Corporate,720,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,180
+Meat,850,Wedding,661,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,189
+Fruits,900,Corporate,700,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Vegetables,1000,Birthday,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,200
+Fruits,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,180
+Baked Goods,1000,Birthday,800,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Fruits,980,Social Gathering,650,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,330
+Vegetables,980,Wedding,680,Refrigerated,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,300
+Baked Goods,900,Wedding,700,Room Temperature,Regular,Summer,Sit-down Dinner,Rural,Low,200
+Fruits,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,170
+Fruits,874,Social Gathering,690,Room Temperature,Regular,Winter,Finger Food,Rural,Low,184
+Fruits,900,Birthday,720,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,180
+Dairy Products,850,Corporate,650,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,200
+Fruits,850,Birthday,661,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,189
+Baked Goods,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Birthday,670,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,230
+Vegetables,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Baked Goods,1000,Corporate,780,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,220
+Vegetables,982,Corporate,797,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,185
+Dairy Products,950,Wedding,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Dairy Products,800,Birthday,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Vegetables,850,Birthday,650,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,180
+Meat,893,Wedding,667,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,226
+Meat,850,Wedding,680,Refrigerated,Regular,All Seasons,Finger Food,Urban,Low,170
+Fruits,800,Corporate,620,Refrigerated,Occasional,Winter,Finger Food,Urban,Low,180
+Vegetables,850,Birthday,680,Refrigerated,Regular,Winter,Finger Food,Rural,Low,170
+Vegetables,850,Corporate,650,Refrigerated,Regular,Winter,Finger Food,Rural,High,200
+Baked Goods,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Dairy Products,950,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Suburban,High,250
+Fruits,900,Social Gathering,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,970,Social Gathering,692,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,278
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Fruits,800,Wedding,620,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,920,Birthday,767,Room Temperature,Regular,Winter,Buffet,Urban,Low,153
+Vegetables,800,Birthday,620,Refrigerated,Regular,Winter,Finger Food,Suburban,Low,180
+Fruits,900,Birthday,700,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Vegetables,850,Corporate,650,Refrigerated,Regular,Summer,Finger Food,Suburban,High,200
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,1000,Social Gathering,650,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,350
+Dairy Products,900,Corporate,700,Room Temperature,Occasional,All Seasons,Finger Food,Suburban,Moderate,200
+Dairy Products,950,Social Gathering,640,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,310
+Vegetables,800,Corporate,620,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate,180
+Meat,800,Birthday,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Baked Goods,850,Corporate,680,Room Temperature,Regular,Winter,Finger Food,Urban,Low,170
+Meat,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Rural,Low,180
+Fruits,850,Birthday,680,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate,170
+Fruits,850,Wedding,650,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Fruits,900,Social Gathering,720,Refrigerated,Regular,All Seasons,Buffet,Suburban,High,180
+Vegetables,1000,Corporate,630,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,370
+Fruits,850,Birthday,650,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Baked Goods,950,Birthday,700,Room Temperature,Regular,Summer,Finger Food,Suburban,High,250
+Meat,850,Social Gathering,680,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,170
+Vegetables,782,Corporate,608,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,174
+Meat,850,Social Gathering,650,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,200
+Vegetables,782,Wedding,608,Refrigerated,Occasional,Summer,Sit-down Dinner,Rural,Moderate,174
+Baked Goods,950,Corporate,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,250
+Dairy Products,871,Corporate,702,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,169
+Baked Goods,1000,Wedding,780,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,220
+Baked Goods,920,Social Gathering,767,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,153
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Low,170
+Vegetables,950,Wedding,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,980,Social Gathering,680,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,300
+Vegetables,850,Social Gathering,680,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,170
+Dairy Products,1000,Wedding,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,850,Social Gathering,710,Room Temperature,Regular,Summer,Finger Food,Rural,High,140
+Baked Goods,900,Wedding,720,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Meat,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,50
+Dairy Products,850,Corporate,710,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,140
+Fruits,850,Social Gathering,650,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Fruits,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,950,Birthday,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,250
+Dairy Products,900,Corporate,670,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,230
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Rural,High,200
+Baked Goods,1000,Social Gathering,780,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,220
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Dairy Products,995,Social Gathering,834,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,Low,161
+Baked Goods,950,Birthday,750,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,995,Corporate,834,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,161
+Dairy Products,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,180
+Baked Goods,850,Social Gathering,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,170
+Baked Goods,993,Social Gathering,838,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,155
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Meat,850,Birthday,680,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,170
+Meat,900,Birthday,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Fruits,1000,Corporate,800,Room Temperature,Regular,Summer,Buffet,Rural,High,200
+Meat,970,Birthday,692,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,278
+Meat,800,Corporate,620,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,180
+Fruits,980,Corporate,680,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,300
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Winter,Buffet,Rural,High,180
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Winter,Buffet,Urban,High,200
+Fruits,959,Social Gathering,839,Refrigerated,Regular,Summer,Buffet,Suburban,Low,120
+Fruits,1000,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,High,200
+Fruits,1000,Corporate,800,Refrigerated,Regular,All Seasons,Finger Food,Urban,High,200
+Fruits,920,Social Gathering,767,Room Temperature,Regular,Summer,Buffet,Urban,Low,153
+Fruits,900,Wedding,780,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,120
+Vegetables,850,Wedding,650,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,High,200
+Vegetables,900,Wedding,780,Refrigerated,Regular,Winter,Finger Food,Urban,Moderate,120
+Baked Goods,850,Wedding,650,Room Temperature,Regular,Winter,Finger Food,Rural,High,200
+Meat,1000,Corporate,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Rural,High,200
+Meat,1000,Corporate,780,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,220
+Meat,1000,Corporate,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Fruits,950,Corporate,750,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Vegetables,850,Birthday,650,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,200
+Vegetables,900,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,100
+Fruits,850,Birthday,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,50
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Summer,Finger Food,Urban,Low,200
+Meat,850,Corporate,680,Refrigerated,Occasional,All Seasons,Finger Food,Suburban,Moderate,170
+Fruits,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Meat,900,Social Gathering,720,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,180
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,200
+Vegetables,900,Birthday,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Vegetables,900,Birthday,720,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Fruits,800,Corporate,620,Refrigerated,Occasional,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,800,Corporate,620,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,180
+Dairy Products,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,180
+Baked Goods,1000,Birthday,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Rural,High,200
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Dairy Products,800,Birthday,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,995,Corporate,834,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,161
+Baked Goods,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,800,Birthday,620,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,180
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Dairy Products,850,Corporate,650,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,984,Social Gathering,853,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,131
+Dairy Products,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,900,Social Gathering,660,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,240
+Vegetables,950,Social Gathering,750,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Fruits,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Birthday,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Social Gathering,750,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,150
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,850,Social Gathering,650,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Fruits,900,Social Gathering,720,Room Temperature,Occasional,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Meat,1000,Wedding,800,Refrigerated,Occasional,Summer,Buffet,Rural,High,200
+Meat,900,Corporate,720,Room Temperature,Regular,Winter,Buffet,Urban,High,180
+Meat,1000,Wedding,800,Refrigerated,Occasional,Winter,Sit-down Dinner,Rural,Low,200
+Fruits,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,1000,Wedding,780,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,220
+Meat,900,Wedding,700,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Meat,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Fruits,900,Corporate,720,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,180
+Meat,980,Birthday,780,Refrigerated,Regular,All Seasons,Buffet,Suburban,Moderate,200
+Fruits,980,Corporate,780,Refrigerated,Occasional,Winter,Buffet,Suburban,Moderate,200
+Meat,900,Wedding,700,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,200
+Vegetables,980,Birthday,780,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate,200
+Meat,850,Corporate,680,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,170
+Baked Goods,900,Wedding,700,Room Temperature,Regular,Summer,Finger Food,Rural,Low,200
+Meat,850,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,50
+Meat,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,180
+Baked Goods,874,Birthday,690,Room Temperature,Regular,Summer,Finger Food,Rural,Low,184
+Fruits,950,Birthday,800,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,150
+Meat,950,Wedding,640,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Low,310
+Meat,850,Wedding,650,Refrigerated,Occasional,Winter,Sit-down Dinner,Rural,Moderate,200
+Meat,900,Corporate,720,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,180
+Baked Goods,1000,Birthday,850,Room Temperature,Regular,Summer,Finger Food,Rural,High,150
+Baked Goods,959,Corporate,839,Room Temperature,Occasional,Winter,Buffet,Suburban,Low,120
+Baked Goods,850,Wedding,680,Room Temperature,Occasional,All Seasons,Buffet,Urban,Low,170
+Fruits,850,Corporate,710,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,140
+Vegetables,782,Wedding,608,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,174
+Fruits,782,Wedding,608,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,174
+Vegetables,850,Birthday,650,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,200
+Baked Goods,900,Wedding,700,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,200
+Fruits,850,Corporate,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,874,Birthday,690,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,184
+Fruits,905,Corporate,742,Refrigerated,Occasional,All Seasons,Finger Food,Urban,Moderate,163
+Dairy Products,980,Wedding,680,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,300
+Vegetables,995,Wedding,834,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Urban,Low,161
+Meat,1000,Social Gathering,630,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Low,370
+Baked Goods,997,Birthday,891,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,106
+Dairy Products,1000,Social Gathering,650,Room Temperature,Regular,Winter,Buffet,Urban,High,350
+Fruits,980,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,260
+Fruits,1000,Corporate,800,Room Temperature,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Fruits,1000,Corporate,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,370
+Fruits,782,Wedding,608,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,174
+Dairy Products,800,Birthday,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Fruits,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Baked Goods,984,Birthday,853,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,131
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Rural,High,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,180
+Fruits,1000,Social Gathering,850,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,150
+Meat,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,180
+Baked Goods,782,Corporate,608,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,174
+Meat,850,Social Gathering,680,Refrigerated,Occasional,All Seasons,Finger Food,Rural,Moderate,170
+Dairy Products,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Fruits,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,1000,Social Gathering,630,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Moderate,370
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Birthday,661,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,189
+Dairy Products,993,Social Gathering,838,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,155
+Meat,997,Birthday,891,Refrigerated,Regular,Summer,Finger Food,Urban,High,106
+Meat,900,Birthday,700,Refrigerated,Regular,Winter,Finger Food,Suburban,Low,200
+Meat,900,Wedding,700,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,950,Wedding,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,970,Corporate,692,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,278
+Meat,900,Wedding,700,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,977,Corporate,830,Room Temperature,Regular,Summer,Buffet,Urban,Low,147
+Fruits,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Urban,Low,180
+Meat,900,Wedding,720,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,180
+Fruits,900,Corporate,700,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,200
+Meat,950,Wedding,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Meat,900,Corporate,720,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,180
+Fruits,1000,Birthday,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,850,Social Gathering,661,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,189
+Fruits,800,Corporate,620,Refrigerated,Regular,Winter,Finger Food,Rural,Low,180
+Meat,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,High,200
+Meat,850,Corporate,680,Room Temperature,Regular,Winter,Finger Food,Urban,Low,170
+Vegetables,900,Wedding,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Fruits,900,Wedding,720,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,180
+Meat,850,Corporate,650,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,200
+Vegetables,850,Birthday,680,Refrigerated,Regular,Winter,Finger Food,Rural,Low,170
+Meat,900,Birthday,700,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,200
+Meat,900,Corporate,700,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,200
+Meat,950,Corporate,750,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,200
+Meat,950,Corporate,620,Refrigerated,Occasional,Winter,Finger Food,Urban,Moderate,330
+Vegetables,850,Corporate,680,Refrigerated,Occasional,Summer,Finger Food,Rural,Low,170
+Meat,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Vegetables,900,Birthday,720,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,High,180
+Dairy Products,1000,Corporate,650,Room Temperature,Regular,Winter,Buffet,Urban,High,350
+Baked Goods,950,Birthday,710,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,240
+Vegetables,800,Corporate,620,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Baked Goods,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Urban,Low,180
+Fruits,950,Wedding,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Meat,900,Corporate,720,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Fruits,900,Wedding,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,900,Wedding,720,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Fruits,900,Social Gathering,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Fruits,900,Social Gathering,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Dairy Products,950,Corporate,710,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,240
+Meat,900,Corporate,700,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Vegetables,850,Corporate,650,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,High,200
+Fruits,800,Wedding,620,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,180
+Meat,950,Wedding,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Summer,Finger Food,Urban,High,200
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,200
+Vegetables,871,Corporate,702,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,169
+Baked Goods,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Baked Goods,800,Birthday,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,180
+Fruits,850,Birthday,650,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Dairy Products,850,Corporate,680,Room Temperature,Regular,Winter,Finger Food,Urban,Low,170
+Meat,998,Social Gathering,888,Refrigerated,Regular,All Seasons,Finger Food,Rural,High,110
+Fruits,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Rural,Low,180
+Fruits,900,Social Gathering,720,Refrigerated,Regular,All Seasons,Buffet,Suburban,High,180
+Meat,900,Corporate,720,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,780,Birthday,607,Room Temperature,Regular,Summer,Finger Food,Rural,High,173
+Fruits,850,Wedding,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Baked Goods,900,Corporate,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Baked Goods,850,Corporate,710,Room Temperature,Regular,Winter,Finger Food,Suburban,High,140
+Fruits,1000,Social Gathering,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Fruits,1000,Birthday,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,200
+Fruits,997,Social Gathering,891,Room Temperature,Regular,Summer,Finger Food,Urban,High,106
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Vegetables,900,Corporate,720,Refrigerated,Occasional,Winter,Sit-down Dinner,Urban,High,180
+Vegetables,950,Corporate,750,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Wedding,720,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,200
+Baked Goods,850,Wedding,650,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Wedding,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,170
+Dairy Products,900,Corporate,720,Room Temperature,Regular,All Seasons,Buffet,Urban,High,180
+Meat,850,Corporate,650,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,1000,Corporate,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Low,200
+Fruits,1000,Birthday,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,200
+Meat,900,Social Gathering,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,997,Birthday,891,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,106
+Baked Goods,850,Corporate,650,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Fruits,900,Social Gathering,720,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Fruits,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Fruits,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,170
+Dairy Products,1000,Birthday,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,950,Wedding,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Baked Goods,850,Social Gathering,650,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,200
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,850,Social Gathering,710,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,140
+Baked Goods,950,Corporate,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Corporate,720,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,180
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,170
+Dairy Products,850,Birthday,650,Room Temperature,Regular,All Seasons,Buffet,Rural,Moderate,200
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,200
+Baked Goods,800,Wedding,620,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Baked Goods,900,Social Gathering,700,Room Temperature,Occasional,All Seasons,Buffet,Suburban,Low,200
+Dairy Products,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,905,Social Gathering,742,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,163
+Baked Goods,1000,Social Gathering,780,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,220
+Dairy Products,850,Birthday,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,1000,Wedding,800,Room Temperature,Occasional,Winter,Sit-down Dinner,Urban,High,200
+Dairy Products,900,Wedding,720,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,180
+Dairy Products,905,Social Gathering,742,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,163
+Dairy Products,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,180
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,200
+Dairy Products,800,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Baked Goods,1000,Wedding,800,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,High,200
+Vegetables,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,996,Social Gathering,829,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,167
+Baked Goods,900,Social Gathering,780,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,120
+Baked Goods,850,Birthday,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Meat,850,Social Gathering,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Corporate,650,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,200
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,200
+Dairy Products,980,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,260
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,200
+Dairy Products,900,Social Gathering,780,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,120
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Dairy Products,982,Social Gathering,797,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,185
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Baked Goods,950,Birthday,750,Room Temperature,Occasional,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Meat,998,Wedding,888,Refrigerated,Regular,Winter,Finger Food,Rural,High,110
+Meat,900,Corporate,720,Refrigerated,Regular,Summer,Buffet,Urban,Moderate,180
+Meat,871,Birthday,702,Room Temperature,Regular,Summer,Buffet,Suburban,Low,169
+Meat,950,Wedding,700,Refrigerated,Regular,Winter,Finger Food,Suburban,High,250
+Meat,950,Wedding,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Vegetables,850,Wedding,680,Refrigerated,Regular,Summer,Finger Food,Urban,Low,170
+Meat,950,Wedding,700,Refrigerated,Regular,All Seasons,Finger Food,Rural,High,250
+Fruits,980,Birthday,720,Room Temperature,Regular,Summer,Buffet,Suburban,High,260
+Fruits,950,Birthday,750,Refrigerated,Regular,Winter,Finger Food,Suburban,High,200
+Meat,900,Birthday,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,200
+Meat,950,Corporate,750,Refrigerated,Occasional,Summer,Finger Food,Suburban,High,200
+Baked Goods,920,Birthday,767,Room Temperature,Regular,Winter,Buffet,Suburban,Low,153
+Meat,900,Wedding,700,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,200
+Meat,900,Wedding,700,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,Low,200
+Fruits,850,Birthday,680,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,Low,170
+Fruits,980,Corporate,720,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,260
+Baked Goods,900,Wedding,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Meat,900,Birthday,650,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,250
+Vegetables,780,Birthday,607,Refrigerated,Regular,All Seasons,Finger Food,Rural,High,173
+Meat,850,Social Gathering,650,Refrigerated,Regular,Summer,Finger Food,Suburban,High,200
+Meat,850,Corporate,650,Room Temperature,Occasional,Winter,Finger Food,Suburban,High,200
+Fruits,950,Birthday,750,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Fruits,993,Wedding,838,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,155
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,200
+Meat,850,Social Gathering,710,Room Temperature,Regular,Winter,Finger Food,Rural,High,140
+Baked Goods,980,Birthday,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Baked Goods,900,Wedding,720,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Fruits,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,984,Social Gathering,853,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,131
+Baked Goods,950,Birthday,750,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,200
+Meat,1000,Corporate,800,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Birthday,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,200
+Dairy Products,995,Birthday,834,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,161
+Fruits,850,Birthday,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,170
+Baked Goods,950,Social Gathering,800,Room Temperature,Regular,Summer,Buffet,Urban,Moderate,150
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,200
+Meat,950,Wedding,750,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Fruits,984,Birthday,853,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,131
+Dairy Products,984,Corporate,853,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,131
+Dairy Products,950,Wedding,640,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,310
+Dairy Products,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Birthday,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Meat,920,Birthday,767,Room Temperature,Regular,Summer,Buffet,Urban,Low,153
+Meat,800,Wedding,620,Refrigerated,Regular,Summer,Finger Food,Urban,Low,180
+Fruits,850,Wedding,680,Refrigerated,Regular,Winter,Finger Food,Urban,Low,170
+Fruits,997,Birthday,891,Refrigerated,Regular,Winter,Finger Food,Urban,High,106
+Baked Goods,995,Wedding,834,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,161
+Vegetables,1000,Corporate,630,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Moderate,370
+Baked Goods,850,Birthday,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Baked Goods,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Wedding,720,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Dairy Products,850,Social Gathering,710,Room Temperature,Regular,Winter,Finger Food,Urban,High,140
+Baked Goods,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Dairy Products,900,Wedding,720,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,180
+Baked Goods,900,Social Gathering,660,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,240
+Meat,950,Birthday,800,Refrigerated,Occasional,Winter,Buffet,Urban,Moderate,150
+Meat,800,Wedding,620,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Meat,888,Corporate,675,Refrigerated,Regular,All Seasons,Finger Food,Rural,Low,213
+Meat,900,Corporate,720,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,180
+Meat,1000,Corporate,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Dairy Products,900,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,100
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Vegetables,950,Social Gathering,700,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,250
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,800,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,180
+Dairy Products,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,984,Wedding,853,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,131
+Meat,1000,Corporate,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,850,Birthday,650,Refrigerated,Regular,Summer,Finger Food,Suburban,High,200
+Vegetables,950,Corporate,750,Room Temperature,Regular,Winter,Buffet,Urban,High,200
+Meat,900,Wedding,700,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Meat,1000,Birthday,780,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,220
+Meat,850,Wedding,650,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Vegetables,800,Corporate,620,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,180
+Baked Goods,998,Wedding,888,Room Temperature,Regular,Winter,Finger Food,Rural,High,110
+Meat,1000,Corporate,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,997,Birthday,891,Room Temperature,Regular,Summer,Finger Food,Urban,High,106
+Fruits,1000,Wedding,800,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,High,200
+Meat,850,Birthday,661,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Moderate,189
+Vegetables,995,Wedding,834,Refrigerated,Regular,All Seasons,Sit-down Dinner,Rural,Low,161
+Fruits,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Vegetables,950,Birthday,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,980,Birthday,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Fruits,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,848,Wedding,647,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,201
+Dairy Products,900,Corporate,720,Room Temperature,Regular,Winter,Buffet,Urban,Moderate,180
+Meat,950,Social Gathering,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,780,Wedding,607,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,173
+Baked Goods,850,Corporate,680,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,170
+Baked Goods,1000,Corporate,800,Room Temperature,Occasional,Winter,Finger Food,Urban,High,200
+Dairy Products,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Birthday,650,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Vegetables,850,Corporate,650,Refrigerated,Occasional,Summer,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Low,170
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Dairy Products,1000,Wedding,630,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,370
+Vegetables,950,Wedding,750,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Moderate,200
+Fruits,850,Corporate,661,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,189
+Baked Goods,848,Corporate,647,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,201
+Baked Goods,980,Corporate,780,Room Temperature,Regular,All Seasons,Buffet,Suburban,Moderate,200
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Birthday,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,200
+Baked Goods,980,Social Gathering,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Fruits,1000,Social Gathering,780,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,220
+Vegetables,900,Social Gathering,700,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,200
+Dairy Products,900,Wedding,700,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,200
+Baked Goods,900,Wedding,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Baked Goods,782,Corporate,608,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,174
+Baked Goods,900,Wedding,720,Room Temperature,Occasional,All Seasons,Sit-down Dinner,Suburban,High,180
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,950,Social Gathering,640,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,310
+Meat,1000,Corporate,650,Refrigerated,Regular,Summer,Buffet,Urban,High,350
+Meat,977,Corporate,830,Room Temperature,Regular,Winter,Buffet,Urban,Low,147
+Fruits,950,Social Gathering,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Baked Goods,980,Social Gathering,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,300
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Fruits,900,Wedding,720,Refrigerated,Regular,Summer,Buffet,Rural,High,180
+Meat,900,Wedding,700,Refrigerated,Regular,Winter,Finger Food,Suburban,Low,200
+Meat,980,Wedding,780,Refrigerated,Occasional,Winter,Buffet,Suburban,Moderate,200
+Meat,900,Corporate,700,Refrigerated,Occasional,Winter,Finger Food,Suburban,Low,200
+Meat,850,Wedding,650,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Fruits,1000,Corporate,780,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,220
+Meat,850,Corporate,680,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Low,170
+Meat,950,Corporate,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Meat,900,Wedding,720,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,180
+Meat,980,Corporate,780,Refrigerated,Regular,Winter,Buffet,Urban,Moderate,200
+Meat,850,Corporate,650,Refrigerated,Regular,Winter,Finger Food,Urban,High,200
+Meat,850,Wedding,680,Refrigerated,Occasional,Summer,Finger Food,Rural,Low,170
+Meat,996,Birthday,829,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,167
+Dairy Products,900,Wedding,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Meat,1000,Wedding,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Fruits,950,Wedding,800,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,150
+Meat,782,Corporate,608,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,174
+Fruits,900,Social Gathering,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Vegetables,950,Wedding,750,Refrigerated,Occasional,Summer,Finger Food,Suburban,Low,200
+Vegetables,850,Corporate,680,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,170
+Meat,950,Wedding,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Fruits,950,Wedding,700,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,250
+Fruits,888,Wedding,675,Room Temperature,Regular,Winter,Finger Food,Rural,Low,213
+Fruits,950,Birthday,620,Room Temperature,Regular,Summer,Finger Food,Rural,Low,330
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Summer,Buffet,Rural,High,200
+Vegetables,871,Social Gathering,702,Refrigerated,Regular,Winter,Buffet,Suburban,Low,169
+Baked Goods,900,Corporate,720,Room Temperature,Regular,All Seasons,Buffet,Urban,High,180
+Meat,982,Wedding,797,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,185
+Vegetables,900,Social Gathering,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Meat,900,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Winter,Finger Food,Urban,Low,200
+Fruits,900,Wedding,700,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,Low,200
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,180
+Meat,1000,Birthday,630,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,370
+Meat,900,Social Gathering,720,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Meat,850,Wedding,680,Refrigerated,Occasional,All Seasons,Finger Food,Rural,Low,170
+Fruits,850,Wedding,680,Refrigerated,Occasional,Summer,Finger Food,Suburban,Low,170
+Meat,900,Wedding,720,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Meat,900,Birthday,700,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Fruits,850,Wedding,680,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,170
+Meat,1000,Birthday,800,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Meat,850,Social Gathering,650,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Baked Goods,905,Corporate,742,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,163
+Vegetables,950,Birthday,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Fruits,850,Wedding,650,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,980,Birthday,720,Room Temperature,Regular,Summer,Buffet,Suburban,High,260
+Vegetables,900,Corporate,720,Room Temperature,Regular,Winter,Buffet,Urban,Moderate,180
+Fruits,1000,Birthday,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,900,Corporate,720,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,180
+Meat,980,Social Gathering,650,Room Temperature,Regular,Winter,Finger Food,Rural,Low,330
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Winter,Finger Food,Urban,Low,200
+Vegetables,1000,Corporate,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,850,Social Gathering,650,Room Temperature,Regular,Summer,Buffet,Rural,Moderate,200
+Vegetables,995,Wedding,834,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,161
+Vegetables,950,Birthday,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Vegetables,1000,Birthday,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Wedding,680,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,170
+Fruits,850,Social Gathering,650,Refrigerated,Regular,All Seasons,Buffet,Suburban,Moderate,200
+Baked Goods,900,Wedding,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,850,Corporate,650,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,200
+Baked Goods,900,Birthday,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Vegetables,900,Wedding,700,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,200
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,Winter,Buffet,Urban,Low,170
+Baked Goods,977,Wedding,832,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,145
+Vegetables,900,Social Gathering,700,Room Temperature,Regular,Summer,Finger Food,Rural,Low,200
+Dairy Products,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,200
+Dairy Products,980,Corporate,720,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,260
+Vegetables,900,Social Gathering,720,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,180
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Meat,950,Social Gathering,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,900,Corporate,720,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Meat,800,Social Gathering,620,Room Temperature,Occasional,Winter,Finger Food,Rural,Moderate,180
+Dairy Products,888,Wedding,675,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,213
+Vegetables,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,900,Birthday,720,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Fruits,1000,Wedding,780,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,220
+Dairy Products,1000,Birthday,800,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Vegetables,900,Social Gathering,700,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,200
+Baked Goods,888,Birthday,675,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,213
+Baked Goods,850,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,50
+Meat,850,Social Gathering,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,995,Wedding,834,Room Temperature,Occasional,Summer,Sit-down Dinner,Suburban,Low,161
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,200
+Fruits,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,170
+Baked Goods,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,800,Corporate,620,Room Temperature,Occasional,Summer,Finger Food,Suburban,Moderate,180
+Fruits,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Dairy Products,850,Wedding,661,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,189
+Dairy Products,888,Social Gathering,675,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,213
+Dairy Products,1000,Corporate,800,Room Temperature,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,980,Social Gathering,780,Room Temperature,Regular,All Seasons,Buffet,Suburban,Moderate,200
+Dairy Products,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Dairy Products,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,800,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Baked Goods,950,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,330
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Meat,782,Social Gathering,608,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,174
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,170
+Dairy Products,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Social Gathering,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,200
+Baked Goods,900,Social Gathering,670,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,230
+Dairy Products,850,Corporate,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,782,Social Gathering,608,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,174
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Meat,871,Birthday,702,Refrigerated,Regular,Winter,Buffet,Suburban,Low,169
+Meat,977,Wedding,830,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,147
+Meat,950,Birthday,800,Refrigerated,Regular,Summer,Buffet,Urban,Moderate,150
+Meat,800,Wedding,620,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,180
+Meat,950,Wedding,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,850,Wedding,650,Refrigerated,Regular,All Seasons,Buffet,Rural,Moderate,200
+Meat,874,Corporate,690,Refrigerated,Occasional,Winter,Finger Food,Urban,Low,184
+Meat,950,Birthday,620,Room Temperature,Regular,Winter,Finger Food,Rural,Low,330
+Meat,900,Corporate,700,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Meat,950,Corporate,640,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,310
+Meat,982,Corporate,842,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,140
+Meat,900,Wedding,700,Refrigerated,Occasional,Winter,Sit-down Dinner,Rural,Low,200
+Meat,1000,Corporate,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Vegetables,997,Birthday,891,Refrigerated,Regular,Summer,Finger Food,Rural,High,106
+Meat,800,Birthday,620,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,180
+Meat,950,Birthday,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,900,Social Gathering,700,Refrigerated,Regular,All Seasons,Buffet,Rural,High,200
+Vegetables,871,Social Gathering,702,Refrigerated,Regular,Summer,Buffet,Rural,Low,169
+Meat,950,Corporate,750,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,Moderate,200
+Meat,900,Corporate,700,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,200
+Fruits,1000,Corporate,850,Room Temperature,Occasional,Winter,Finger Food,Urban,High,150
+Meat,995,Corporate,834,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Low,161
+Meat,850,Corporate,650,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Meat,1000,Birthday,850,Refrigerated,Regular,Summer,Finger Food,Urban,High,150
+Meat,995,Wedding,834,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,Low,161
+Meat,850,Birthday,680,Room Temperature,Regular,Winter,Finger Food,Rural,Low,170
+Meat,980,Corporate,680,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,300
+Meat,850,Corporate,680,Room Temperature,Regular,Winter,Finger Food,Rural,Low,170
+Meat,996,Corporate,829,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,167
+Meat,900,Corporate,720,Refrigerated,Regular,Winter,Finger Food,Urban,Moderate,180
+Meat,1000,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,180
+Dairy Products,800,Birthday,620,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,180
+Fruits,850,Social Gathering,650,Room Temperature,Regular,Winter,Buffet,Rural,Moderate,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Summer,Buffet,Suburban,High,200
+Dairy Products,1000,Wedding,800,Room Temperature,Regular,All Seasons,Buffet,Rural,High,200
+Baked Goods,977,Social Gathering,830,Room Temperature,Regular,Winter,Buffet,Urban,Low,147
+Fruits,900,Birthday,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,200
+Fruits,900,Corporate,720,Room Temperature,Occasional,All Seasons,Buffet,Rural,Moderate,180
+Baked Goods,850,Wedding,680,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,170
+Vegetables,950,Birthday,750,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,984,Social Gathering,853,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,131
+Vegetables,900,Wedding,700,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Low,200
+Baked Goods,900,Corporate,720,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,180
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,180
+Baked Goods,900,Corporate,700,Room Temperature,Occasional,All Seasons,Buffet,Suburban,High,200
+Meat,950,Wedding,750,Refrigerated,Occasional,All Seasons,Buffet,Suburban,High,200
+Baked Goods,850,Corporate,650,Room Temperature,Regular,Summer,Buffet,Urban,Low,200
+Meat,800,Wedding,620,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,180
+Meat,800,Birthday,620,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,180
+Meat,850,Corporate,650,Refrigerated,Regular,Winter,Buffet,Urban,Low,200
+Fruits,850,Corporate,650,Refrigerated,Regular,Winter,Buffet,Urban,Low,200
+Meat,800,Corporate,620,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate,180
+Meat,900,Corporate,670,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,230
+Meat,850,Birthday,680,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate,170
+Fruits,900,Wedding,700,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Dairy Products,900,Birthday,720,Room Temperature,Regular,Winter,Buffet,Rural,High,180
+Baked Goods,900,Birthday,680,Room Temperature,Regular,Summer,Buffet,Urban,Moderate,220
+Vegetables,1000,Corporate,850,Refrigerated,Regular,Summer,Finger Food,Suburban,High,150
+Meat,980,Birthday,680,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,300
+Meat,980,Corporate,780,Refrigerated,Occasional,Summer,Buffet,Suburban,Moderate,200
+Vegetables,980,Birthday,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,260
+Meat,950,Wedding,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,950,Wedding,750,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,Moderate,200
+Vegetables,800,Social Gathering,620,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Dairy Products,800,Social Gathering,620,Room Temperature,Regular,Winter,Buffet,Suburban,Low,180
+Baked Goods,850,Social Gathering,710,Room Temperature,Regular,Summer,Finger Food,Urban,High,140
+Baked Goods,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,170
+Meat,1000,Wedding,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Low,200
+Meat,850,Wedding,650,Refrigerated,Occasional,Winter,Sit-down Dinner,Rural,Moderate,200
+Meat,850,Social Gathering,680,Refrigerated,Regular,All Seasons,Finger Food,Urban,Low,170
+Vegetables,950,Wedding,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Meat,1000,Social Gathering,800,Room Temperature,Regular,Winter,Finger Food,Rural,High,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,980,Social Gathering,650,Room Temperature,Regular,Summer,Finger Food,Urban,Low,330
+Dairy Products,900,Wedding,720,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,180
+Dairy Products,950,Wedding,750,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,200
+Dairy Products,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,200
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,200
+Baked Goods,850,Birthday,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Baked Goods,850,Corporate,650,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Baked Goods,848,Corporate,647,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,201
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Dairy Products,1000,Wedding,780,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,220
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,850,Wedding,650,Refrigerated,Occasional,Winter,Sit-down Dinner,Rural,Moderate,200
+Meat,900,Social Gathering,720,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate,180
+Meat,900,Corporate,720,Refrigerated,Occasional,All Seasons,Finger Food,Urban,Moderate,180
+Fruits,850,Birthday,680,Refrigerated,Occasional,All Seasons,Finger Food,Rural,Moderate,170
+Baked Goods,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,180
+Vegetables,874,Wedding,690,Refrigerated,Occasional,Summer,Finger Food,Rural,Low,184
+Fruits,998,Corporate,888,Room Temperature,Regular,Summer,Finger Food,Rural,High,110
+Vegetables,800,Birthday,620,Refrigerated,Regular,Winter,Finger Food,Suburban,Low,180
+Meat,950,Wedding,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Fruits,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,950,Corporate,800,Room Temperature,Occasional,All Seasons,Buffet,Urban,Moderate,150
+Fruits,905,Birthday,742,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,163
+Meat,970,Social Gathering,692,Refrigerated,Occasional,Summer,Sit-down Dinner,Urban,High,278
+Fruits,900,Wedding,720,Room Temperature,Occasional,All Seasons,Finger Food,Suburban,Low,180
+Meat,950,Corporate,750,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,900,Corporate,780,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,120
+Baked Goods,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,200
+Baked Goods,848,Social Gathering,647,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,201
+Dairy Products,982,Wedding,797,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,185
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,850,Wedding,680,Room Temperature,Regular,Winter,Finger Food,Urban,Low,170
+Baked Goods,980,Corporate,720,Room Temperature,Regular,Summer,Buffet,Suburban,High,260
+Vegetables,850,Birthday,680,Refrigerated,Regular,Summer,Finger Food,Urban,Moderate,170
+Baked Goods,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Urban,Low,180
+Baked Goods,995,Wedding,834,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,161
+Meat,900,Corporate,700,Refrigerated,Occasional,All Seasons,Finger Food,Suburban,Moderate,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,200
+Baked Goods,800,Birthday,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Baked Goods,888,Birthday,675,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,213
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,200
+Vegetables,980,Social Gathering,650,Refrigerated,Regular,Summer,Finger Food,Rural,Low,330
+Fruits,900,Social Gathering,700,Refrigerated,Regular,All Seasons,Buffet,Suburban,High,200
+Fruits,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Vegetables,905,Corporate,742,Refrigerated,Occasional,Winter,Finger Food,Rural,Moderate,163
+Baked Goods,980,Birthday,720,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,260
+Fruits,998,Social Gathering,888,Room Temperature,Regular,Winter,Finger Food,Rural,High,110
+Baked Goods,850,Corporate,680,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,170
+Baked Goods,850,Birthday,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Fruits,980,Corporate,680,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Moderate,300
+Dairy Products,900,Wedding,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,200
+Meat,950,Social Gathering,700,Refrigerated,Regular,All Seasons,Finger Food,Suburban,High,250
+Dairy Products,980,Wedding,680,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,300
+Fruits,959,Social Gathering,839,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,120
+Dairy Products,980,Wedding,780,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,200
+Baked Goods,848,Birthday,647,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,201
+Baked Goods,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Low,170
+Dairy Products,980,Wedding,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,300
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Vegetables,1000,Corporate,800,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Fruits,850,Wedding,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Fruits,993,Corporate,838,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,155
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Rural,Low,180
+Fruits,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Meat,850,Social Gathering,650,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Fruits,850,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,50
+Vegetables,950,Corporate,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,800,Wedding,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,950,Corporate,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,200
+Dairy Products,950,Birthday,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Dairy Products,950,Birthday,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,250
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,200
+Dairy Products,998,Corporate,888,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,110
+Dairy Products,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Vegetables,1000,Social Gathering,630,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,370
+Dairy Products,850,Wedding,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Baked Goods,782,Wedding,608,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,174
+Baked Goods,850,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,100
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Dairy Products,950,Corporate,750,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,200
+Dairy Products,950,Social Gathering,640,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,310
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Baked Goods,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Dairy Products,900,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,100
+Dairy Products,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,850,Social Gathering,650,Room Temperature,Occasional,All Seasons,Buffet,Rural,Moderate,200
+Meat,950,Social Gathering,750,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,900,Birthday,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,170
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,170
+Dairy Products,984,Birthday,853,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,131
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Fruits,800,Social Gathering,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Baked Goods,782,Birthday,608,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,174
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Meat,900,Wedding,720,Refrigerated,Occasional,Winter,Buffet,Rural,High,180
+Meat,900,Birthday,700,Refrigerated,Regular,Summer,Buffet,Suburban,High,200
+Meat,871,Wedding,702,Refrigerated,Regular,All Seasons,Buffet,Suburban,Low,169
+Meat,850,Wedding,650,Refrigerated,Regular,Summer,Finger Food,Suburban,High,200
+Fruits,980,Social Gathering,720,Refrigerated,Regular,Winter,Buffet,Rural,High,260
+Meat,900,Corporate,720,Refrigerated,Regular,Winter,Finger Food,Urban,Moderate,180
+Baked Goods,943,Birthday,684,Room Temperature,Regular,Summer,Buffet,Urban,Low,259
+Meat,850,Wedding,680,Refrigerated,Occasional,All Seasons,Finger Food,Rural,Low,170
+Meat,984,Wedding,853,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,131
+Meat,1000,Birthday,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Low,200
+Meat,900,Social Gathering,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Vegetables,995,Wedding,834,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,161
+Meat,900,Corporate,700,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,200
+Fruits,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,180
+Vegetables,1000,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,900,Corporate,700,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,200
+Meat,900,Wedding,700,Refrigerated,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Fruits,978,Birthday,812,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,166
+Fruits,997,Birthday,891,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,106
+Meat,900,Social Gathering,700,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,200
+Fruits,900,Birthday,670,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,230
+Baked Goods,800,Wedding,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,200
+Dairy Products,850,Corporate,650,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,Low,200
+Vegetables,900,Corporate,700,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,200
+Dairy Products,980,Wedding,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Dairy Products,900,Corporate,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Baked Goods,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,170
+Vegetables,950,Social Gathering,750,Refrigerated,Regular,Summer,Finger Food,Suburban,Low,200
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Winter,Buffet,Suburban,Low,180
+Dairy Products,900,Wedding,720,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Fruits,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Baked Goods,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,978,Corporate,812,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,166
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Rural,Low,180
+Fruits,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Vegetables,900,Birthday,720,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Vegetables,950,Corporate,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,850,Wedding,650,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Fruits,996,Social Gathering,829,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Low,167
+Baked Goods,854,Wedding,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,174
+Dairy Products,850,Birthday,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,50
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,Winter,Finger Food,Rural,Low,200
+Dairy Products,980,Wedding,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Low,300
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Summer,Finger Food,Suburban,High,200
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,200
+Dairy Products,782,Birthday,608,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,174
+Vegetables,1000,Social Gathering,630,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Moderate,370
+Dairy Products,800,Birthday,620,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,180
+Dairy Products,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,170
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,782,Social Gathering,608,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,174
+Fruits,850,Social Gathering,661,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,189
+Meat,980,Birthday,720,Refrigerated,Regular,Winter,Buffet,Suburban,High,260
+Fruits,900,Wedding,700,Refrigerated,Regular,Winter,Buffet,Suburban,High,200
+Meat,997,Birthday,891,Refrigerated,Regular,Winter,Finger Food,Rural,High,106
+Meat,800,Corporate,620,Refrigerated,Occasional,Winter,Buffet,Suburban,Low,180
+Meat,888,Wedding,675,Refrigerated,Occasional,Winter,Finger Food,Rural,Low,213
+Dairy Products,950,Social Gathering,750,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Dairy Products,900,Corporate,700,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,180
+Meat,900,Birthday,700,Refrigerated,Regular,Winter,Buffet,Urban,Moderate,200
+Meat,900,Wedding,720,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,180
+Meat,980,Corporate,780,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate,200
+Meat,982,Corporate,842,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,140
+Baked Goods,850,Wedding,650,Room Temperature,Regular,Winter,Buffet,Urban,Low,200
+Baked Goods,1000,Corporate,650,Room Temperature,Regular,Summer,Buffet,Urban,High,350
+Vegetables,900,Wedding,700,Refrigerated,Regular,Winter,Buffet,Suburban,Low,200
+Meat,850,Wedding,650,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,200
+Meat,900,Social Gathering,720,Refrigerated,Regular,Winter,Buffet,Rural,High,180
+Meat,850,Corporate,650,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Meat,950,Birthday,750,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,1000,Wedding,780,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,220
+Meat,1000,Birthday,800,Refrigerated,Regular,All Seasons,Finger Food,Suburban,High,200
+Fruits,950,Corporate,750,Room Temperature,Occasional,Winter,Finger Food,Rural,Low,200
+Vegetables,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,950,Wedding,750,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,200
+Fruits,850,Wedding,650,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,170
+Fruits,1000,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Meat,900,Birthday,700,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Rural,Low,180
+Fruits,980,Social Gathering,720,Room Temperature,Regular,Winter,Buffet,Suburban,High,260
+Meat,1000,Corporate,630,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Urban,Low,370
+Meat,984,Corporate,853,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,131
+Fruits,1000,Wedding,780,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,220
+Vegetables,980,Corporate,720,Room Temperature,Occasional,Winter,Buffet,Suburban,High,260
+Meat,997,Social Gathering,891,Refrigerated,Regular,All Seasons,Finger Food,Urban,High,106
+Fruits,850,Birthday,680,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,170
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Fruits,1000,Social Gathering,850,Room Temperature,Regular,Winter,Finger Food,Rural,High,150
+Vegetables,800,Corporate,620,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,180
+Fruits,850,Corporate,661,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,189
+Fruits,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,180
+Meat,900,Corporate,720,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,180
+Dairy Products,850,Wedding,650,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Baked Goods,950,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Urban,Low,330
+Baked Goods,970,Wedding,692,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,278
+Dairy Products,900,Corporate,720,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Dairy Products,900,Corporate,700,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,200
+Baked Goods,1000,Wedding,800,Room Temperature,Occasional,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,984,Birthday,853,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,131
+Baked Goods,900,Wedding,720,Room Temperature,Occasional,Summer,Sit-down Dinner,Suburban,High,180
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,180
+Dairy Products,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,180
+Dairy Products,850,Social Gathering,710,Room Temperature,Regular,Summer,Finger Food,Rural,High,140
+Dairy Products,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,200
+Baked Goods,1000,Corporate,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,370
+Baked Goods,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Baked Goods,850,Wedding,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,982,Social Gathering,797,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,185
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Meat,950,Corporate,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Meat,980,Social Gathering,720,Room Temperature,Regular,Winter,Buffet,Rural,High,260
+Vegetables,850,Wedding,680,Refrigerated,Occasional,Winter,Finger Food,Rural,Low,170
+Meat,900,Social Gathering,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Dairy Products,993,Wedding,838,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,155
+Vegetables,978,Social Gathering,812,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,166
+Dairy Products,900,Wedding,700,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,950,Social Gathering,750,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Meat,900,Birthday,700,Refrigerated,Regular,Winter,Buffet,Urban,Moderate,200
+Meat,850,Corporate,680,Refrigerated,Regular,Summer,Finger Food,Urban,Low,170
+Fruits,900,Birthday,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Baked Goods,920,Birthday,767,Room Temperature,Regular,Winter,Buffet,Urban,Low,153
+Vegetables,800,Wedding,620,Refrigerated,Occasional,Summer,Buffet,Suburban,Low,180
+Baked Goods,850,Corporate,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,180
+Baked Goods,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,200
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Social Gathering,710,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,140
+Baked Goods,905,Social Gathering,742,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,163
+Dairy Products,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,200
+Dairy Products,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Meat,1000,Wedding,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Vegetables,871,Birthday,702,Refrigerated,Regular,All Seasons,Buffet,Suburban,Low,169
+Meat,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Fruits,1000,Wedding,800,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Meat,950,Wedding,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Meat,900,Corporate,650,Refrigerated,Occasional,Winter,Sit-down Dinner,Urban,Low,250
+Meat,984,Birthday,853,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,131
+Meat,782,Wedding,608,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,Moderate,174
+Meat,900,Wedding,720,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Fruits,970,Wedding,692,Refrigerated,Occasional,Summer,Sit-down Dinner,Rural,High,278
+Meat,950,Wedding,640,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Low,310
+Meat,800,Wedding,620,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,180
+Meat,950,Wedding,750,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,800,Wedding,620,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Meat,980,Corporate,780,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,Moderate,200
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Summer,Buffet,Rural,Moderate,180
+Fruits,950,Corporate,750,Room Temperature,Regular,Winter,Finger Food,Suburban,High,200
+Vegetables,950,Corporate,750,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,850,Birthday,680,Refrigerated,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Fruits,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Meat,1000,Corporate,800,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,High,200
+Fruits,900,Corporate,720,Room Temperature,Regular,Summer,Finger Food,Urban,Moderate,180
+Meat,850,Wedding,650,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Summer,Finger Food,Rural,High,200
+Fruits,850,Corporate,680,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,Low,170
+Fruits,900,Wedding,720,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,180
+Vegetables,900,Social Gathering,720,Refrigerated,Occasional,Winter,Buffet,Rural,High,180
+Meat,800,Corporate,620,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Fruits,950,Birthday,750,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,1000,Wedding,800,Room Temperature,Occasional,Winter,Finger Food,Urban,High,200
+Fruits,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,950,Corporate,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Baked Goods,900,Wedding,700,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,200
+Meat,950,Wedding,750,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,1000,Wedding,800,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,850,Birthday,680,Refrigerated,Regular,All Seasons,Finger Food,Urban,Moderate,170
+Fruits,850,Corporate,710,Room Temperature,Occasional,All Seasons,Finger Food,Urban,High,140
+Vegetables,800,Social Gathering,620,Refrigerated,Regular,Summer,Finger Food,Suburban,Low,180
+Baked Goods,950,Corporate,750,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Fruits,980,Social Gathering,780,Refrigerated,Regular,Summer,Buffet,Suburban,Moderate,200
+Fruits,900,Social Gathering,700,Room Temperature,Regular,Winter,Buffet,Suburban,High,200
+Dairy Products,943,Birthday,684,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,259
+Baked Goods,900,Wedding,720,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Vegetables,950,Corporate,750,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Fruits,850,Wedding,650,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Vegetables,1000,Wedding,800,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,950,Wedding,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Fruits,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Meat,850,Social Gathering,680,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Vegetables,950,Social Gathering,620,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,330
+Fruits,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Dairy Products,1000,Wedding,630,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,370
+Dairy Products,993,Wedding,838,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Moderate,155
+Vegetables,900,Social Gathering,700,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Corporate,700,Room Temperature,Occasional,All Seasons,Buffet,Suburban,High,200
+Fruits,850,Social Gathering,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Low,170
+Dairy Products,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,900,Corporate,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,200
+Vegetables,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Baked Goods,850,Corporate,650,Room Temperature,Occasional,Winter,Sit-down Dinner,Rural,Moderate,200
+Baked Goods,800,Birthday,620,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,905,Corporate,742,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,163
+Baked Goods,980,Social Gathering,780,Room Temperature,Occasional,Winter,Buffet,Suburban,Moderate,200
+Dairy Products,900,Birthday,700,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,200
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,170
+Baked Goods,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,900,Corporate,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,200
+Meat,900,Social Gathering,700,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Fruits,1000,Social Gathering,800,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Low,200
+Fruits,900,Birthday,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Fruits,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Vegetables,980,Birthday,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,300
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,200
+Dairy Products,850,Birthday,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Dairy Products,850,Corporate,650,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,200
+Dairy Products,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Urban,Low,170
+Dairy Products,850,Wedding,650,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,980,Social Gathering,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Dairy Products,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Baked Goods,850,Corporate,650,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,200
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Summer,Sit-down Dinner,Rural,High,200
+Baked Goods,874,Social Gathering,690,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,184
+Dairy Products,950,Wedding,750,Room Temperature,Occasional,Summer,Sit-down Dinner,Suburban,High,200
+Baked Goods,997,Social Gathering,891,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,106
+Baked Goods,950,Birthday,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Baked Goods,848,Corporate,647,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,201
+Dairy Products,1000,Birthday,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,850,Social Gathering,650,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,180
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,180
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,180
+Baked Goods,850,Wedding,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Baked Goods,850,Birthday,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Meat,943,Birthday,684,Refrigerated,Regular,Summer,Buffet,Urban,Low,259
+Meat,850,Corporate,680,Refrigerated,Regular,Winter,Buffet,Urban,Low,170
+Meat,900,Wedding,700,Refrigerated,Occasional,Winter,Buffet,Suburban,Low,200
+Meat,900,Corporate,700,Refrigerated,Regular,Winter,Buffet,Suburban,High,200
+Meat,950,Corporate,710,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,240
+Meat,978,Wedding,812,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,166
+Meat,995,Wedding,834,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,Low,161
+Meat,850,Birthday,650,Refrigerated,Regular,Summer,Finger Food,Suburban,High,200
+Meat,1000,Corporate,800,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Rural,Low,170
+Meat,900,Social Gathering,700,Refrigerated,Regular,Winter,Buffet,Suburban,Low,200
+Meat,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Low,200
+Meat,1000,Wedding,800,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,900,Social Gathering,720,Room Temperature,Regular,Winter,Buffet,Rural,High,180
+Meat,850,Social Gathering,650,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,200
+Vegetables,900,Corporate,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Meat,900,Social Gathering,700,Room Temperature,Regular,Winter,Buffet,Suburban,Low,200
+Meat,900,Corporate,720,Room Temperature,Regular,Winter,Finger Food,Urban,Moderate,180
+Fruits,1000,Birthday,800,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Meat,950,Social Gathering,710,Refrigerated,Regular,Summer,Finger Food,Suburban,Low,240
+Fruits,850,Wedding,650,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,200
+Meat,900,Corporate,700,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,200
+Vegetables,900,Birthday,700,Refrigerated,Regular,Winter,Finger Food,Suburban,Moderate,200
+Vegetables,980,Corporate,680,Refrigerated,Occasional,Winter,Sit-down Dinner,Urban,Low,300
+Baked Goods,995,Wedding,834,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,161
+Fruits,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Urban,Low,170
+Fruits,850,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,50
+Baked Goods,900,Social Gathering,700,Room Temperature,Regular,Winter,Buffet,Rural,High,200
+Meat,950,Wedding,750,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Suburban,High,200
+Meat,850,Wedding,650,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Meat,1000,Wedding,630,Refrigerated,Occasional,All Seasons,Sit-down Dinner,Rural,Moderate,370
+Meat,800,Social Gathering,620,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,180
+Baked Goods,1000,Corporate,780,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,220
+Fruits,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,170
+Fruits,900,Social Gathering,700,Room Temperature,Regular,All Seasons,Buffet,Suburban,High,200
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,850,Birthday,680,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,170
+Baked Goods,900,Birthday,700,Room Temperature,Occasional,All Seasons,Finger Food,Rural,Low,200
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Summer,Finger Food,Rural,Low,170
+Meat,950,Social Gathering,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Vegetables,900,Wedding,700,Refrigerated,Occasional,Winter,Sit-down Dinner,Suburban,Moderate,200
+Meat,900,Social Gathering,720,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Dairy Products,1000,Social Gathering,630,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,370
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,200
+Meat,900,Corporate,700,Refrigerated,Regular,Summer,Buffet,Suburban,Low,200
+Meat,900,Social Gathering,720,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,180
+Fruits,950,Social Gathering,750,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Low,200
+Dairy Products,850,Social Gathering,650,Room Temperature,Regular,Summer,Finger Food,Urban,High,200
+Dairy Products,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Fruits,950,Wedding,750,Room Temperature,Regular,Summer,Buffet,Urban,High,200
+Vegetables,950,Corporate,750,Refrigerated,Regular,Summer,Buffet,Urban,High,200
+Fruits,900,Wedding,650,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Low,250
+Fruits,900,Wedding,720,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Meat,893,Birthday,667,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,Low,226
+Fruits,1000,Corporate,800,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,200
+Fruits,850,Corporate,750,Room Temperature,Regular,Winter,Finger Food,Urban,High,100
+Meat,900,Corporate,700,Refrigerated,Occasional,Winter,Finger Food,Rural,Moderate,200
+Fruits,959,Birthday,839,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,120
+Baked Goods,888,Wedding,675,Room Temperature,Regular,Winter,Finger Food,Rural,Low,213
+Vegetables,900,Social Gathering,720,Refrigerated,Regular,Winter,Buffet,Rural,High,180
+Fruits,980,Corporate,650,Room Temperature,Regular,Winter,Finger Food,Suburban,Low,330
+Fruits,900,Wedding,700,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,200
+Vegetables,800,Corporate,620,Room Temperature,Regular,Summer,Finger Food,Urban,Low,180
+Meat,950,Wedding,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,980,Corporate,650,Room Temperature,Regular,Winter,Finger Food,Urban,Low,330
+Vegetables,850,Wedding,680,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,Low,170
+Dairy Products,980,Birthday,720,Room Temperature,Regular,Winter,Buffet,Suburban,High,260
+Vegetables,1000,Wedding,630,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Moderate,370
+Vegetables,850,Birthday,650,Refrigerated,Regular,Summer,Sit-down Dinner,Suburban,High,200
+Vegetables,900,Social Gathering,700,Refrigerated,Regular,Summer,Buffet,Urban,Moderate,200
+Vegetables,850,Wedding,661,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,Moderate,189
+Fruits,950,Corporate,700,Room Temperature,Occasional,Winter,Finger Food,Suburban,High,250
+Dairy Products,850,Birthday,680,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Low,170
+Dairy Products,900,Wedding,720,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,180
+Baked Goods,850,Birthday,661,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Moderate,189
+Dairy Products,980,Corporate,780,Room Temperature,Regular,All Seasons,Buffet,Suburban,Moderate,200
+Baked Goods,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Fruits,850,Social Gathering,650,Room Temperature,Regular,Summer,Finger Food,Rural,High,200
+Vegetables,996,Wedding,829,Refrigerated,Occasional,Summer,Sit-down Dinner,Suburban,Low,167
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Buffet,Rural,High,180
+Baked Goods,900,Corporate,700,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,200
+Dairy Products,900,Corporate,720,Room Temperature,Regular,Winter,Buffet,Urban,Moderate,180
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,1000,Social Gathering,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Meat,997,Wedding,891,Refrigerated,Regular,Summer,Finger Food,Rural,High,106
+Meat,850,Corporate,650,Refrigerated,Occasional,Winter,Buffet,Suburban,Low,200
+Baked Goods,850,Wedding,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Meat,993,Birthday,838,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,155
+Baked Goods,989,Social Gathering,872,Room Temperature,Regular,Winter,Buffet,Suburban,Low,117
+Baked Goods,997,Birthday,891,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,106
+Baked Goods,1000,Corporate,800,Room Temperature,Regular,Summer,Sit-down Dinner,Urban,High,200
+Baked Goods,900,Birthday,700,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,200
+Vegetables,900,Wedding,720,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,180
+Vegetables,850,Corporate,650,Refrigerated,Occasional,Winter,Finger Food,Suburban,Moderate,200
+Dairy Products,1000,Wedding,800,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,200
+Dairy Products,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Low,170
+Baked Goods,850,Social Gathering,680,Room Temperature,Regular,Winter,Finger Food,Rural,Moderate,170
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,High,200
+Dairy Products,950,Wedding,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Dairy Products,1000,Birthday,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,200
+Dairy Products,850,Birthday,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Dairy Products,1000,Corporate,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Baked Goods,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Dairy Products,1000,Wedding,800,Room Temperature,Occasional,All Seasons,Finger Food,Rural,High,200
+Fruits,850,Social Gathering,650,Room Temperature,Regular,Winter,Finger Food,Suburban,Moderate,200
+Baked Goods,970,Corporate,692,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,High,278
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Baked Goods,900,Social Gathering,720,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,180
+Dairy Products,800,Corporate,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Baked Goods,1000,Social Gathering,850,Room Temperature,Regular,All Seasons,Finger Food,Rural,High,150
+Fruits,850,Social Gathering,680,Room Temperature,Occasional,Summer,Finger Food,Suburban,Moderate,170
+Meat,980,Corporate,780,Refrigerated,Regular,Winter,Buffet,Suburban,Moderate,200
+Meat,900,Wedding,720,Refrigerated,Regular,Winter,Finger Food,Rural,Moderate,180
+Meat,780,Corporate,607,Refrigerated,Regular,Winter,Finger Food,Suburban,High,173
+Meat,997,Birthday,891,Room Temperature,Regular,Winter,Finger Food,Urban,High,106
+Meat,893,Corporate,667,Refrigerated,Regular,Summer,Sit-down Dinner,Rural,Low,226
+Dairy Products,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,170
+Baked Goods,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,170
+Dairy Products,850,Corporate,680,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,170
+Baked Goods,1000,Social Gathering,800,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Dairy Products,900,Birthday,720,Room Temperature,Regular,All Seasons,Finger Food,Suburban,Moderate,180
+Dairy Products,850,Social Gathering,680,Room Temperature,Regular,Summer,Finger Food,Rural,Moderate,170
+Baked Goods,997,Social Gathering,891,Room Temperature,Regular,All Seasons,Finger Food,Suburban,High,106
+Dairy Products,993,Corporate,838,Room Temperature,Regular,All Seasons,Sit-down Dinner,Urban,Moderate,155
+Dairy Products,950,Corporate,750,Room Temperature,Regular,All Seasons,Sit-down Dinner,Rural,Moderate,200
+Baked Goods,982,Social Gathering,842,Room Temperature,Regular,All Seasons,Sit-down Dinner,Suburban,Low,140
+Meat,970,Corporate,670,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,300
+Meat,943,Social Gathering,684,Refrigerated,Occasional,Winter,Buffet,Rural,Low,259
+Meat,900,Wedding,650,Refrigerated,Occasional,Winter,Sit-down Dinner,Urban,Low,250
+Meat,900,Corporate,720,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,180
+Meat,800,Wedding,620,Refrigerated,Occasional,Winter,Finger Food,Rural,Moderate,180
+Meat,920,Social Gathering,767,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,153
+Meat,995,Birthday,834,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,High,161
+Meat,850,Corporate,680,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,170
+Meat,950,Birthday,640,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,Low,310
+Fruits,980,Birthday,780,Room Temperature,Regular,Winter,Buffet,Suburban,Moderate,200
+Dairy Products,900,Birthday,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Fruits,980,Social Gathering,650,Refrigerated,Regular,Winter,Finger Food,Urban,Low,330
+Fruits,871,Corporate,702,Room Temperature,Regular,All Seasons,Buffet,Suburban,Low,169
+Fruits,900,Wedding,700,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Vegetables,893,Corporate,667,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,Low,226
+Fruits,900,Corporate,720,Room Temperature,Regular,All Seasons,Buffet,Urban,Moderate,180
+Baked Goods,998,Corporate,888,Room Temperature,Regular,Winter,Finger Food,Urban,High,110
+Meat,950,Corporate,750,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,High,200
+Fruits,900,Social Gathering,700,Refrigerated,Regular,All Seasons,Buffet,Suburban,High,200
+Vegetables,900,Birthday,700,Refrigerated,Regular,Summer,Finger Food,Suburban,Moderate,200
+Dairy Products,989,Birthday,872,Room Temperature,Regular,All Seasons,Buffet,Urban,Low,117
+Fruits,980,Corporate,780,Refrigerated,Occasional,All Seasons,Buffet,Suburban,Moderate,200
+Vegetables,996,Wedding,829,Refrigerated,Regular,All Seasons,Sit-down Dinner,Rural,Low,167
+Baked Goods,800,Birthday,620,Refrigerated,Regular,All Seasons,Finger Food,Suburban,Low,180
+Meat,800,Social Gathering,620,Room Temperature,Regular,Summer,Finger Food,Suburban,Low,180
+Fruits,950,Corporate,750,Refrigerated,Regular,Winter,Sit-down Dinner,Suburban,Moderate,200
+Dairy Products,850,Corporate,650,Room Temperature,Regular,Winter,Finger Food,Urban,High,200
+Fruits,1000,Wedding,630,Room Temperature,Regular,Winter,Sit-down Dinner,Suburban,Moderate,370
+Dairy Products,900,Social Gathering,720,Room Temperature,Regular,Summer,Buffet,Rural,High,180
+Meat,900,Corporate,720,Refrigerated,Regular,Winter,Buffet,Urban,High,180
+Meat,950,Wedding,710,Refrigerated,Occasional,Summer,Buffet,Urban,Low,240
+Fruits,997,Birthday,891,Refrigerated,Regular,Winter,Finger Food,Rural,High,106
+Meat,997,Birthday,891,Refrigerated,Regular,Summer,Finger Food,Suburban,High,106
+Meat,850,Birthday,680,Refrigerated,Regular,Summer,Finger Food,Rural,Moderate,170
+Meat,970,Corporate,692,Refrigerated,Regular,Winter,Sit-down Dinner,Rural,High,278
+Vegetables,900,Wedding,700,Refrigerated,Occasional,Summer,Buffet,Suburban,High,200
+Baked Goods,900,Birthday,720,Room Temperature,Regular,Winter,Buffet,Rural,High,180
+Fruits,850,Corporate,710,Room Temperature,Regular,Summer,Finger Food,Urban,High,140
+Vegetables,850,Social Gathering,680,Refrigerated,Regular,Summer,Buffet,Urban,Low,170
+Meat,900,Social Gathering,720,Refrigerated,Regular,All Seasons,Buffet,Rural,High,180
+Meat,900,Corporate,700,Refrigerated,Occasional,Summer,Finger Food,Rural,Moderate,200
+Vegetables,1000,Wedding,780,Refrigerated,Regular,Winter,Sit-down Dinner,Urban,High,220
+Fruits,980,Birthday,780,Refrigerated,Regular,All Seasons,Buffet,Suburban,Moderate,200
+Fruits,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,High,200
+Fruits,950,Wedding,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Urban,High,200
+Meat,900,Birthday,720,Refrigerated,Occasional,Summer,Finger Food,Suburban,Moderate,180
+Meat,950,Wedding,750,Refrigerated,Regular,All Seasons,Sit-down Dinner,Suburban,High,200
+Fruits,996,Wedding,829,Room Temperature,Regular,Summer,Sit-down Dinner,Suburban,Low,167
+Vegetables,950,Corporate,750,Refrigerated,Regular,Summer,Sit-down Dinner,Urban,High,200
+Fruits,997,Birthday,891,Room Temperature,Regular,All Seasons,Finger Food,Urban,High,106
+Meat,950,Birthday,750,Room Temperature,Regular,Winter,Sit-down Dinner,Urban,Moderate,200
+Meat,997,Social Gathering,891,Room Temperature,Regular,Winter,Finger Food,Urban,High,106
+Baked Goods,850,Corporate,710,Room Temperature,Regular,Summer,Finger Food,Urban,High,140
+Baked Goods,943,Social Gathering,684,Room Temperature,Regular,Winter,Buffet,Rural,Low,259
+Fruits,800,Wedding,620,Room Temperature,Regular,All Seasons,Finger Food,Urban,Moderate,180
+Fruits,850,Wedding,650,Room Temperature,Regular,All Seasons,Finger Food,Rural,Moderate,200
+Baked Goods,1000,Wedding,800,Room Temperature,Regular,Winter,Sit-down Dinner,Rural,High,200

@@ -1,0 +1,1783 @@
+Type of Food,Food Prepared,Food Consumed,Wastage Food Amount,Seasonality
+Meat,950,710,240,All Seasons
+Meat,1000,800,200,Winter
+Vegetables,871,702,169,Summer
+Meat,997,891,106,All Seasons
+Meat,900,700,200,Winter
+Meat,871,702,169,Summer
+Meat,950,640,310,Winter
+Meat,900,700,200,Summer
+Fruits,900,720,180,All Seasons
+Meat,1000,800,200,Winter
+Fruits,900,720,180,Summer
+Meat,871,702,169,Winter
+Meat,1000,800,200,Summer
+Meat,850,650,200,Winter
+Fruits,893,667,226,Winter
+Meat,950,750,200,Winter
+Fruits,900,700,200,Winter
+Fruits,1000,780,220,Winter
+Fruits,950,700,250,All Seasons
+Meat,800,620,180,Winter
+Meat,950,620,330,Winter
+Vegetables,800,620,180,Winter
+Meat,950,750,200,Summer
+Fruits,1000,800,200,Winter
+Meat,900,720,180,Winter
+Fruits,1000,800,200,All Seasons
+Baked Goods,900,720,180,Summer
+Meat,1000,800,200,Winter
+Meat,782,608,174,Summer
+Meat,850,680,170,Winter
+Meat,900,780,120,Winter
+Meat,993,838,155,Summer
+Fruits,950,750,200,All Seasons
+Meat,800,620,180,Winter
+Fruits,800,620,180,Winter
+Vegetables,850,680,170,Summer
+Meat,800,620,180,Winter
+Fruits,997,891,106,All Seasons
+Fruits,1000,800,200,Winter
+Meat,850,650,200,Winter
+Meat,900,700,200,Winter
+Dairy Products,959,839,120,Summer
+Fruits,950,640,310,Winter
+Baked Goods,900,700,200,Summer
+Fruits,850,680,170,Summer
+Fruits,950,750,200,All Seasons
+Meat,950,800,150,All Seasons
+Fruits,995,834,161,Summer
+Fruits,900,700,200,All Seasons
+Fruits,874,690,184,Winter
+Dairy Products,900,700,200,Winter
+Meat,900,720,180,Summer
+Baked Goods,900,720,180,Summer
+Meat,1000,800,200,Summer
+Vegetables,850,680,170,All Seasons
+Baked Goods,1000,780,220,Winter
+Meat,980,780,200,Summer
+Meat,1000,800,200,Summer
+Meat,900,720,180,All Seasons
+Vegetables,850,680,170,Winter
+Vegetables,900,720,180,Summer
+Fruits,850,650,200,All Seasons
+Vegetables,950,750,200,Winter
+Meat,850,650,200,All Seasons
+Vegetables,850,680,170,Summer
+Baked Goods,1000,850,150,All Seasons
+Dairy Products,850,650,200,Summer
+Fruits,1000,630,370,All Seasons
+Baked Goods,900,720,180,Summer
+Baked Goods,982,842,140,All Seasons
+Baked Goods,850,650,200,Winter
+Vegetables,850,710,140,Winter
+Fruits,900,720,180,All Seasons
+Dairy Products,950,750,200,Summer
+Meat,1000,800,200,Summer
+Fruits,900,720,180,All Seasons
+Vegetables,950,750,200,Winter
+Meat,850,680,170,Winter
+Meat,950,750,200,All Seasons
+Baked Goods,871,702,169,Summer
+Fruits,993,838,155,All Seasons
+Baked Goods,850,710,140,All Seasons
+Dairy Products,900,720,180,Summer
+Fruits,900,700,200,All Seasons
+Baked Goods,850,680,170,Summer
+Dairy Products,1000,800,200,Summer
+Vegetables,850,650,200,Winter
+Fruits,950,750,200,All Seasons
+Dairy Products,900,700,200,Winter
+Fruits,950,750,200,All Seasons
+Baked Goods,1000,780,220,Winter
+Dairy Products,980,650,330,All Seasons
+Dairy Products,900,700,200,Summer
+Fruits,850,650,200,All Seasons
+Fruits,1000,800,200,Summer
+Baked Goods,900,700,200,Summer
+Meat,900,700,200,All Seasons
+Fruits,950,750,200,Summer
+Dairy Products,850,680,170,Summer
+Fruits,1000,780,220,Winter
+Dairy Products,950,640,310,All Seasons
+Baked Goods,982,797,185,All Seasons
+Baked Goods,900,720,180,All Seasons
+Dairy Products,900,720,180,All Seasons
+Vegetables,1000,800,200,Summer
+Dairy Products,800,620,180,All Seasons
+Dairy Products,950,750,200,Winter
+Baked Goods,950,750,200,All Seasons
+Baked Goods,900,700,200,Winter
+Baked Goods,950,750,200,Winter
+Dairy Products,850,650,200,Summer
+Baked Goods,850,650,200,Winter
+Vegetables,1000,800,200,Summer
+Vegetables,874,690,184,All Seasons
+Dairy Products,850,680,170,Winter
+Vegetables,950,750,200,Summer
+Fruits,980,667,313,Winter
+Fruits,874,690,184,Winter
+Fruits,950,700,250,Summer
+Meat,1000,800,200,Summer
+Fruits,850,650,200,Summer
+Vegetables,850,710,140,Summer
+Meat,874,690,184,Summer
+Meat,850,650,200,Winter
+Baked Goods,800,620,180,Summer
+Meat,1000,800,200,Winter
+Vegetables,850,650,200,Summer
+Vegetables,950,750,200,Summer
+Meat,900,700,200,All Seasons
+Meat,850,650,200,Winter
+Meat,850,661,189,Summer
+Meat,1000,800,200,All Seasons
+Vegetables,950,750,200,Winter
+Fruits,900,720,180,Summer
+Fruits,900,700,200,Winter
+Vegetables,850,680,170,Summer
+Meat,800,620,180,Winter
+Vegetables,900,700,200,Winter
+Meat,850,650,200,Winter
+Baked Goods,850,680,170,Winter
+Baked Goods,900,780,120,Summer
+Dairy Products,900,720,180,All Seasons
+Baked Goods,950,750,200,All Seasons
+Dairy Products,1000,630,370,All Seasons
+Baked Goods,950,750,200,All Seasons
+Dairy Products,1000,780,220,Winter
+Dairy Products,905,742,163,All Seasons
+Fruits,1000,800,200,Summer
+Vegetables,888,675,213,All Seasons
+Vegetables,800,620,180,Winter
+Baked Goods,900,680,220,All Seasons
+Vegetables,1000,800,200,Summer
+Baked Goods,800,620,180,Winter
+Baked Goods,1000,800,200,Winter
+Dairy Products,1000,800,200,Summer
+Meat,950,750,200,Summer
+Dairy Products,950,700,250,Winter
+Fruits,950,700,250,All Seasons
+Dairy Products,989,872,117,Summer
+Fruits,982,797,185,Summer
+Dairy Products,959,839,120,All Seasons
+Vegetables,800,620,180,Summer
+Fruits,800,620,180,All Seasons
+Fruits,800,620,180,All Seasons
+Dairy Products,920,700,220,All Seasons
+Baked Goods,1000,800,200,Winter
+Baked Goods,850,680,170,Summer
+Baked Goods,950,750,200,All Seasons
+Baked Goods,950,750,200,Summer
+Dairy Products,850,800,50,Summer
+Meat,950,750,200,All Seasons
+Fruits,850,650,200,Winter
+Baked Goods,950,750,200,All Seasons
+Dairy Products,874,690,184,Winter
+Dairy Products,850,800,50,All Seasons
+Dairy Products,850,680,170,Summer
+Dairy Products,1000,800,200,All Seasons
+Meat,1000,800,200,Winter
+Baked Goods,900,720,180,Winter
+Fruits,950,710,240,All Seasons
+Vegetables,800,620,180,Summer
+Vegetables,920,767,153,Summer
+Meat,950,750,200,Summer
+Dairy Products,1000,650,350,Winter
+Dairy Products,989,872,117,Winter
+Baked Goods,850,650,200,All Seasons
+Fruits,950,620,330,Summer
+Vegetables,980,780,200,Summer
+Meat,800,620,180,Winter
+Fruits,1000,800,200,Winter
+Fruits,900,780,120,Winter
+Baked Goods,850,650,200,Winter
+Meat,950,750,200,Winter
+Fruits,997,891,106,All Seasons
+Fruits,980,780,200,Summer
+Meat,970,692,278,Summer
+Vegetables,1000,800,200,Winter
+Baked Goods,950,700,250,Summer
+Baked Goods,800,620,180,Winter
+Dairy Products,850,650,200,All Seasons
+Baked Goods,800,620,180,Summer
+Fruits,1000,630,370,All Seasons
+Vegetables,900,720,180,All Seasons
+Baked Goods,1000,850,150,Summer
+Fruits,1000,800,200,All Seasons
+Fruits,905,742,163,All Seasons
+Dairy Products,850,800,50,Winter
+Vegetables,800,620,180,Summer
+Vegetables,950,640,310,All Seasons
+Dairy Products,850,650,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,998,888,110,Summer
+Baked Goods,950,750,200,All Seasons
+Meat,1000,630,370,All Seasons
+Meat,800,620,180,Winter
+Dairy Products,850,680,170,Winter
+Fruits,1000,800,200,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Baked Goods,900,780,120,All Seasons
+Fruits,850,650,200,Winter
+Dairy Products,900,700,200,Winter
+Dairy Products,800,620,180,Summer
+Baked Goods,950,750,200,Winter
+Vegetables,900,720,180,Summer
+Baked Goods,900,720,180,All Seasons
+Dairy Products,800,620,180,All Seasons
+Dairy Products,850,650,200,All Seasons
+Dairy Products,980,680,300,All Seasons
+Dairy Products,1000,850,150,All Seasons
+Dairy Products,950,750,200,All Seasons
+Vegetables,900,700,200,Winter
+Dairy Products,900,700,200,Winter
+Baked Goods,950,620,330,All Seasons
+Dairy Products,850,680,170,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,848,647,201,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,900,720,180,All Seasons
+Dairy Products,850,800,50,All Seasons
+Meat,900,720,180,Winter
+Meat,900,680,220,Winter
+Meat,900,720,180,Summer
+Meat,950,710,240,All Seasons
+Meat,950,750,200,Summer
+Meat,850,800,50,Summer
+Meat,950,750,200,Winter
+Meat,950,750,200,Winter
+Meat,1000,800,200,Winter
+Fruits,900,720,180,Summer
+Fruits,1000,800,200,Winter
+Baked Goods,800,620,180,Winter
+Dairy Products,995,834,161,Winter
+Dairy Products,900,700,200,Winter
+Dairy Products,900,700,200,All Seasons
+Meat,980,720,260,Winter
+Meat,950,750,200,Summer
+Meat,1000,800,200,Winter
+Meat,850,710,140,Winter
+Meat,1000,780,220,Winter
+Meat,800,620,180,Summer
+Meat,800,620,180,Summer
+Fruits,850,710,140,All Seasons
+Meat,995,834,161,Winter
+Fruits,998,888,110,Summer
+Fruits,888,675,213,Winter
+Meat,900,700,200,All Seasons
+Meat,800,620,180,Winter
+Meat,950,750,200,Summer
+Meat,1000,800,200,Summer
+Meat,800,620,180,Summer
+Meat,800,620,180,Winter
+Vegetables,950,750,200,Summer
+Vegetables,800,620,180,Winter
+Baked Goods,800,620,180,Summer
+Dairy Products,900,700,200,Summer
+Vegetables,850,680,170,Summer
+Baked Goods,950,750,200,Summer
+Fruits,850,680,170,Winter
+Baked Goods,900,720,180,Summer
+Meat,850,680,170,Summer
+Meat,780,607,173,Winter
+Fruits,888,675,213,Winter
+Vegetables,850,800,50,Summer
+Meat,850,650,200,All Seasons
+Meat,1000,800,200,All Seasons
+Fruits,950,750,200,All Seasons
+Baked Goods,900,700,200,All Seasons
+Meat,950,750,200,Winter
+Baked Goods,850,650,200,All Seasons
+Fruits,900,720,180,All Seasons
+Baked Goods,970,692,278,Summer
+Dairy Products,950,750,200,All Seasons
+Vegetables,900,720,180,Winter
+Fruits,989,872,117,Summer
+Meat,900,720,180,Winter
+Fruits,900,720,180,All Seasons
+Meat,984,853,131,Summer
+Dairy Products,874,690,184,All Seasons
+Dairy Products,950,750,200,Summer
+Fruits,850,680,170,Winter
+Fruits,800,620,180,All Seasons
+Dairy Products,900,680,220,All Seasons
+Baked Goods,850,650,200,Summer
+Fruits,900,720,180,Summer
+Meat,950,750,200,Winter
+Vegetables,893,667,226,Summer
+Baked Goods,1000,850,150,Summer
+Meat,800,620,180,Summer
+Meat,900,700,200,Summer
+Fruits,900,720,180,Winter
+Meat,1000,800,200,Summer
+Meat,800,620,180,Winter
+Dairy Products,1000,800,200,Winter
+Fruits,952,842,110,All Seasons
+Baked Goods,848,647,201,All Seasons
+Baked Goods,900,780,120,All Seasons
+Fruits,900,720,180,Winter
+Meat,874,690,184,All Seasons
+Fruits,900,720,180,Summer
+Vegetables,993,838,155,Winter
+Dairy Products,850,680,170,Summer
+Dairy Products,850,680,170,Winter
+Dairy Products,850,680,170,All Seasons
+Baked Goods,1000,800,200,All Seasons
+Baked Goods,950,750,200,All Seasons
+Dairy Products,950,750,200,Summer
+Dairy Products,800,620,180,All Seasons
+Dairy Products,900,660,240,Winter
+Dairy Products,850,650,200,All Seasons
+Baked Goods,978,812,166,Winter
+Dairy Products,900,720,180,All Seasons
+Meat,1000,630,370,All Seasons
+Baked Goods,950,750,200,Summer
+Baked Goods,871,702,169,All Seasons
+Baked Goods,998,888,110,Summer
+Vegetables,950,750,200,Summer
+Fruits,950,710,240,All Seasons
+Fruits,850,680,170,Summer
+Meat,850,650,200,Winter
+Meat,1000,630,370,All Seasons
+Meat,850,650,200,Winter
+Baked Goods,950,750,200,Winter
+Dairy Products,850,680,170,All Seasons
+Baked Goods,850,680,170,All Seasons
+Vegetables,782,608,174,Summer
+Dairy Products,850,650,200,All Seasons
+Meat,850,650,200,Summer
+Fruits,900,660,240,All Seasons
+Meat,900,700,200,Winter
+Dairy Products,900,800,100,Summer
+Baked Goods,1000,800,200,Winter
+Meat,950,750,200,Winter
+Baked Goods,1000,800,200,Winter
+Baked Goods,900,720,180,Summer
+Baked Goods,1000,800,200,Winter
+Dairy Products,900,670,230,Winter
+Dairy Products,800,620,180,Winter
+Dairy Products,850,680,170,Summer
+Baked Goods,1000,800,200,All Seasons
+Vegetables,800,620,180,All Seasons
+Baked Goods,848,647,201,Summer
+Fruits,900,720,180,Winter
+Dairy Products,900,720,180,Summer
+Fruits,1000,650,350,Winter
+Dairy Products,900,720,180,Winter
+Meat,800,620,180,Summer
+Dairy Products,1000,800,200,Summer
+Baked Goods,950,750,200,All Seasons
+Baked Goods,850,680,170,All Seasons
+Dairy Products,800,620,180,All Seasons
+Dairy Products,900,720,180,All Seasons
+Baked Goods,848,647,201,All Seasons
+Dairy Products,850,680,170,Winter
+Baked Goods,848,647,201,Summer
+Baked Goods,1000,630,370,All Seasons
+Baked Goods,1000,800,200,Winter
+Baked Goods,950,620,330,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Dairy Products,850,650,200,Summer
+Vegetables,950,750,200,All Seasons
+Baked Goods,950,750,200,Winter
+Vegetables,982,797,185,All Seasons
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,850,661,189,All Seasons
+Baked Goods,874,690,184,Summer
+Vegetables,900,700,200,Summer
+Fruits,950,750,200,Winter
+Meat,950,750,200,Winter
+Dairy Products,900,720,180,All Seasons
+Meat,1000,800,200,All Seasons
+Fruits,1000,800,200,Summer
+Meat,980,780,200,Winter
+Meat,1000,800,200,Summer
+Meat,950,750,200,Winter
+Dairy Products,950,750,200,Winter
+Fruits,850,710,140,All Seasons
+Baked Goods,1000,850,150,All Seasons
+Baked Goods,848,647,201,Winter
+Meat,1000,800,200,All Seasons
+Baked Goods,800,620,180,Summer
+Fruits,850,650,200,Winter
+Vegetables,900,700,200,Summer
+Fruits,905,742,163,Winter
+Dairy Products,850,680,170,All Seasons
+Baked Goods,950,750,200,All Seasons
+Baked Goods,850,650,200,Summer
+Dairy Products,800,620,180,Winter
+Baked Goods,900,720,180,All Seasons
+Vegetables,850,650,200,Summer
+Dairy Products,950,750,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,959,839,120,All Seasons
+Dairy Products,900,700,200,Winter
+Dairy Products,800,620,180,All Seasons
+Dairy Products,850,680,170,All Seasons
+Baked Goods,800,620,180,Winter
+Dairy Products,900,700,200,Summer
+Fruits,1000,630,370,All Seasons
+Dairy Products,950,750,200,Summer
+Dairy Products,950,800,150,All Seasons
+Fruits,800,620,180,All Seasons
+Baked Goods,900,700,200,Winter
+Fruits,850,680,170,All Seasons
+Fruits,980,720,260,Summer
+Meat,800,620,180,Summer
+Meat,995,834,161,Winter
+Vegetables,989,872,117,Winter
+Meat,850,650,200,Winter
+Fruits,800,620,180,Winter
+Meat,900,720,180,Summer
+Vegetables,950,750,200,Summer
+Meat,900,800,100,Summer
+Fruits,980,720,260,All Seasons
+Vegetables,850,680,170,Winter
+Fruits,970,692,278,Winter
+Meat,782,608,174,Summer
+Fruits,850,650,200,Winter
+Meat,900,720,180,Summer
+Meat,900,720,180,Winter
+Vegetables,800,620,180,Summer
+Baked Goods,871,702,169,Winter
+Vegetables,850,650,200,Summer
+Baked Goods,893,667,226,Winter
+Fruits,984,853,131,All Seasons
+Vegetables,1000,800,200,Summer
+Meat,900,700,200,Summer
+Baked Goods,800,620,180,Summer
+Baked Goods,980,700,280,All Seasons
+Fruits,850,680,170,All Seasons
+Dairy Products,874,690,184,Winter
+Meat,993,838,155,Winter
+Baked Goods,950,750,200,Winter
+Vegetables,950,700,250,All Seasons
+Baked Goods,900,700,200,Summer
+Dairy Products,900,700,200,Winter
+Fruits,893,667,226,Winter
+Fruits,900,700,200,Summer
+Meat,905,742,163,All Seasons
+Fruits,950,750,200,Summer
+Fruits,1000,800,200,Summer
+Vegetables,800,620,180,Winter
+Vegetables,900,720,180,Summer
+Dairy Products,997,891,106,All Seasons
+Fruits,850,650,200,Winter
+Meat,950,750,200,Winter
+Dairy Products,800,620,180,Summer
+Baked Goods,980,780,200,Summer
+Vegetables,850,650,200,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,900,650,250,All Seasons
+Baked Goods,1000,800,200,Summer
+Baked Goods,950,640,310,All Seasons
+Dairy Products,850,650,200,Winter
+Dairy Products,984,853,131,All Seasons
+Dairy Products,980,780,200,Winter
+Baked Goods,1000,780,220,Winter
+Dairy Products,850,650,200,All Seasons
+Vegetables,800,620,180,All Seasons
+Fruits,900,670,230,All Seasons
+Dairy Products,900,680,220,All Seasons
+Baked Goods,782,608,174,Summer
+Baked Goods,850,680,170,All Seasons
+Dairy Products,905,742,163,All Seasons
+Dairy Products,900,720,180,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,850,710,140,All Seasons
+Baked Goods,900,780,120,All Seasons
+Baked Goods,995,834,161,All Seasons
+Meat,943,684,259,Summer
+Meat,850,650,200,Summer
+Meat,980,650,330,Summer
+Meat,850,680,170,Winter
+Meat,900,700,200,Winter
+Meat,1000,800,200,Winter
+Meat,900,700,200,Summer
+Meat,950,750,200,Summer
+Meat,1000,800,200,Summer
+Fruits,850,710,140,Summer
+Meat,850,800,50,Winter
+Meat,780,607,173,Summer
+Fruits,1000,780,220,Winter
+Meat,871,702,169,Winter
+Dairy Products,850,650,200,Winter
+Baked Goods,850,680,170,Winter
+Vegetables,950,750,200,Winter
+Fruits,800,620,180,Summer
+Vegetables,900,700,200,Winter
+Meat,950,700,250,Summer
+Fruits,850,650,200,All Seasons
+Vegetables,950,750,200,Summer
+Fruits,982,842,140,All Seasons
+Fruits,950,750,200,Winter
+Baked Goods,900,700,200,Winter
+Dairy Products,850,710,140,Winter
+Baked Goods,888,675,213,All Seasons
+Fruits,850,710,140,Winter
+Baked Goods,800,620,180,Summer
+Dairy Products,980,780,200,Summer
+Dairy Products,997,891,106,Summer
+Dairy Products,850,650,200,Winter
+Vegetables,850,650,200,Summer
+Fruits,800,620,180,All Seasons
+Fruits,900,720,180,All Seasons
+Fruits,900,700,200,All Seasons
+Baked Goods,850,650,200,Summer
+Meat,900,700,200,Winter
+Baked Goods,900,720,180,All Seasons
+Meat,782,608,174,Winter
+Baked Goods,993,838,155,Winter
+Vegetables,850,680,170,Winter
+Baked Goods,780,607,173,All Seasons
+Vegetables,984,853,131,Summer
+Baked Goods,980,780,200,Summer
+Dairy Products,900,700,200,All Seasons
+Vegetables,850,680,170,All Seasons
+Dairy Products,900,800,100,Summer
+Dairy Products,850,650,200,Winter
+Baked Goods,950,750,200,All Seasons
+Baked Goods,850,650,200,All Seasons
+Dairy Products,850,650,200,Winter
+Baked Goods,800,620,180,All Seasons
+Fruits,850,680,170,All Seasons
+Vegetables,850,650,200,Winter
+Dairy Products,905,742,163,Winter
+Vegetables,1000,800,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,997,891,106,All Seasons
+Dairy Products,850,680,170,All Seasons
+Dairy Products,1000,780,220,Winter
+Dairy Products,900,700,200,All Seasons
+Dairy Products,1000,630,370,All Seasons
+Baked Goods,900,700,200,All Seasons
+Meat,900,700,200,Summer
+Meat,900,700,200,Summer
+Meat,871,702,169,Summer
+Vegetables,989,872,117,Summer
+Meat,900,700,200,Winter
+Vegetables,850,650,200,Winter
+Meat,874,690,184,Winter
+Meat,995,834,161,Summer
+Fruits,850,680,170,Summer
+Fruits,1000,800,200,Winter
+Meat,950,750,200,Winter
+Meat,850,650,200,Winter
+Vegetables,950,750,200,Winter
+Meat,950,750,200,Summer
+Vegetables,850,680,170,Summer
+Fruits,871,702,169,All Seasons
+Meat,850,650,200,Winter
+Meat,850,680,170,Summer
+Meat,900,720,180,All Seasons
+Fruits,850,650,200,Winter
+Meat,980,780,200,Winter
+Meat,980,780,200,Summer
+Meat,850,680,170,Winter
+Vegetables,995,834,161,Winter
+Meat,1000,800,200,All Seasons
+Meat,850,650,200,Summer
+Vegetables,980,720,260,Winter
+Baked Goods,982,842,140,Summer
+Vegetables,900,700,200,Winter
+Vegetables,850,680,170,Summer
+Baked Goods,980,780,200,Winter
+Fruits,970,692,278,Winter
+Vegetables,900,720,180,Summer
+Meat,850,661,189,All Seasons
+Fruits,900,700,200,All Seasons
+Vegetables,1000,800,200,Winter
+Fruits,800,620,180,Winter
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,900,720,180,Summer
+Fruits,980,650,330,All Seasons
+Vegetables,980,680,300,All Seasons
+Baked Goods,900,700,200,Summer
+Fruits,850,680,170,Summer
+Fruits,874,690,184,Winter
+Fruits,900,720,180,All Seasons
+Dairy Products,850,650,200,All Seasons
+Fruits,850,661,189,All Seasons
+Baked Goods,950,750,200,Winter
+Baked Goods,900,670,230,Winter
+Vegetables,900,720,180,All Seasons
+Baked Goods,1000,780,220,Summer
+Vegetables,982,797,185,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,800,620,180,Winter
+Vegetables,850,650,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Meat,893,667,226,Summer
+Meat,850,680,170,All Seasons
+Fruits,800,620,180,Winter
+Vegetables,850,680,170,Winter
+Vegetables,850,650,200,Winter
+Baked Goods,850,680,170,All Seasons
+Dairy Products,950,700,250,Winter
+Fruits,900,700,200,Winter
+Dairy Products,970,692,278,Winter
+Baked Goods,900,720,180,Summer
+Fruits,800,620,180,Winter
+Dairy Products,920,767,153,Winter
+Vegetables,800,620,180,Winter
+Fruits,900,700,200,All Seasons
+Vegetables,850,650,200,Summer
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Baked Goods,1000,650,350,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,950,640,310,All Seasons
+Vegetables,800,620,180,Summer
+Meat,800,620,180,Winter
+Baked Goods,850,680,170,Winter
+Meat,800,620,180,Summer
+Fruits,850,680,170,All Seasons
+Fruits,850,650,200,Summer
+Fruits,900,720,180,All Seasons
+Vegetables,1000,630,370,Winter
+Fruits,850,650,200,All Seasons
+Baked Goods,950,700,250,Summer
+Meat,850,680,170,Summer
+Vegetables,782,608,174,Winter
+Meat,850,650,200,Summer
+Vegetables,782,608,174,Summer
+Baked Goods,950,700,250,Winter
+Dairy Products,871,702,169,All Seasons
+Baked Goods,1000,780,220,Winter
+Baked Goods,920,767,153,All Seasons
+Baked Goods,850,680,170,Winter
+Vegetables,950,750,200,All Seasons
+Fruits,1000,800,200,Winter
+Meat,980,680,300,Winter
+Vegetables,850,680,170,Winter
+Dairy Products,1000,800,200,All Seasons
+Baked Goods,850,710,140,Summer
+Baked Goods,900,720,180,All Seasons
+Meat,800,620,180,Summer
+Dairy Products,850,800,50,Winter
+Dairy Products,850,710,140,All Seasons
+Fruits,850,650,200,Summer
+Fruits,800,620,180,Winter
+Dairy Products,950,700,250,All Seasons
+Dairy Products,900,670,230,Winter
+Baked Goods,1000,800,200,Summer
+Baked Goods,1000,780,220,Summer
+Baked Goods,900,700,200,All Seasons
+Dairy Products,995,834,161,Winter
+Baked Goods,950,750,200,Winter
+Dairy Products,995,834,161,All Seasons
+Dairy Products,950,750,200,All Seasons
+Baked Goods,1000,800,200,Summer
+Dairy Products,900,720,180,All Seasons
+Baked Goods,850,650,200,Winter
+Baked Goods,900,720,180,All Seasons
+Dairy Products,850,680,170,All Seasons
+Baked Goods,993,838,155,All Seasons
+Dairy Products,900,700,200,All Seasons
+Meat,850,680,170,All Seasons
+Meat,900,720,180,All Seasons
+Fruits,1000,800,200,Summer
+Meat,970,692,278,Winter
+Meat,800,620,180,Winter
+Fruits,980,680,300,Winter
+Baked Goods,900,720,180,Winter
+Baked Goods,950,750,200,Winter
+Fruits,959,839,120,Summer
+Fruits,1000,800,200,Summer
+Fruits,1000,800,200,All Seasons
+Fruits,920,767,153,Summer
+Fruits,900,780,120,Winter
+Vegetables,850,650,200,Summer
+Vegetables,900,780,120,Winter
+Baked Goods,850,650,200,Winter
+Meat,1000,800,200,All Seasons
+Meat,1000,780,220,All Seasons
+Meat,1000,800,200,All Seasons
+Fruits,950,750,200,Summer
+Vegetables,850,650,200,Summer
+Vegetables,900,800,100,Winter
+Fruits,850,800,50,Summer
+Dairy Products,900,720,180,All Seasons
+Dairy Products,900,700,200,Summer
+Meat,850,680,170,All Seasons
+Fruits,800,620,180,All Seasons
+Meat,900,720,180,Winter
+Baked Goods,950,750,200,Summer
+Vegetables,900,700,200,Summer
+Vegetables,900,720,180,Summer
+Fruits,800,620,180,All Seasons
+Fruits,800,620,180,All Seasons
+Dairy Products,800,620,180,All Seasons
+Baked Goods,1000,800,200,Summer
+Dairy Products,1000,800,200,Summer
+Dairy Products,1000,800,200,Summer
+Dairy Products,800,620,180,Winter
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,995,834,161,Summer
+Baked Goods,950,750,200,Winter
+Baked Goods,800,620,180,All Seasons
+Baked Goods,1000,800,200,Winter
+Dairy Products,850,650,200,All Seasons
+Baked Goods,950,750,200,All Seasons
+Baked Goods,984,853,131,Winter
+Dairy Products,950,750,200,Winter
+Dairy Products,900,660,240,Winter
+Vegetables,950,750,200,Summer
+Fruits,950,750,200,Winter
+Dairy Products,850,650,200,Winter
+Baked Goods,1000,800,200,Winter
+Dairy Products,900,720,180,Winter
+Baked Goods,1000,800,200,Winter
+Baked Goods,900,750,150,Winter
+Baked Goods,950,750,200,Summer
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Baked Goods,850,650,200,Summer
+Fruits,900,720,180,All Seasons
+Dairy Products,850,650,200,All Seasons
+Meat,1000,800,200,Summer
+Meat,900,720,180,Winter
+Meat,1000,800,200,Winter
+Fruits,1000,800,200,Winter
+Fruits,1000,780,220,Summer
+Meat,900,700,200,Summer
+Meat,1000,800,200,Winter
+Fruits,900,720,180,Winter
+Meat,980,780,200,All Seasons
+Fruits,980,780,200,Winter
+Meat,900,700,200,All Seasons
+Vegetables,980,780,200,Summer
+Meat,850,680,170,Summer
+Baked Goods,900,700,200,Summer
+Meat,850,800,50,Summer
+Meat,800,620,180,Summer
+Baked Goods,874,690,184,Summer
+Fruits,950,800,150,All Seasons
+Meat,950,640,310,All Seasons
+Meat,850,650,200,Winter
+Meat,900,720,180,Winter
+Baked Goods,1000,850,150,Summer
+Baked Goods,959,839,120,Winter
+Baked Goods,850,680,170,All Seasons
+Fruits,850,710,140,All Seasons
+Vegetables,782,608,174,Winter
+Fruits,782,608,174,All Seasons
+Vegetables,850,650,200,Summer
+Baked Goods,900,700,200,Summer
+Fruits,850,650,200,Winter
+Baked Goods,874,690,184,All Seasons
+Fruits,905,742,163,All Seasons
+Dairy Products,980,680,300,Winter
+Vegetables,995,834,161,All Seasons
+Meat,1000,630,370,All Seasons
+Baked Goods,997,891,106,All Seasons
+Dairy Products,1000,650,350,Winter
+Fruits,980,720,260,All Seasons
+Fruits,1000,800,200,Summer
+Fruits,1000,630,370,All Seasons
+Fruits,782,608,174,All Seasons
+Dairy Products,800,620,180,Winter
+Fruits,900,700,200,All Seasons
+Baked Goods,984,853,131,Summer
+Baked Goods,900,700,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Fruits,1000,850,150,All Seasons
+Meat,1000,800,200,Winter
+Dairy Products,800,620,180,All Seasons
+Baked Goods,782,608,174,Winter
+Meat,850,680,170,All Seasons
+Dairy Products,950,750,200,All Seasons
+Fruits,850,680,170,All Seasons
+Baked Goods,950,750,200,Summer
+Baked Goods,1000,800,200,Summer
+Baked Goods,900,700,200,Summer
+Baked Goods,1000,630,370,Summer
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,900,700,200,Winter
+Baked Goods,950,750,200,Winter
+Dairy Products,850,661,189,All Seasons
+Dairy Products,993,838,155,All Seasons
+Meat,997,891,106,Summer
+Meat,900,700,200,Winter
+Meat,900,700,200,Winter
+Meat,950,750,200,Summer
+Meat,970,692,278,Summer
+Meat,900,700,200,Winter
+Baked Goods,977,830,147,Summer
+Fruits,800,620,180,Summer
+Meat,900,720,180,Winter
+Fruits,900,700,200,Winter
+Meat,950,750,200,All Seasons
+Meat,900,720,180,Winter
+Fruits,1000,800,200,Summer
+Baked Goods,850,650,200,All Seasons
+Dairy Products,850,661,189,All Seasons
+Fruits,800,620,180,Winter
+Meat,1000,800,200,Winter
+Meat,850,680,170,Winter
+Vegetables,900,720,180,Summer
+Fruits,900,720,180,Summer
+Meat,850,650,200,Winter
+Vegetables,850,680,170,Winter
+Meat,900,700,200,Winter
+Meat,900,700,200,Summer
+Meat,950,750,200,Winter
+Meat,950,620,330,Winter
+Vegetables,850,680,170,Summer
+Meat,1000,800,200,Winter
+Vegetables,900,720,180,Summer
+Dairy Products,1000,650,350,Winter
+Baked Goods,950,710,240,All Seasons
+Vegetables,800,620,180,Summer
+Baked Goods,800,620,180,Winter
+Fruits,950,750,200,Summer
+Meat,900,720,180,Winter
+Fruits,900,700,200,Summer
+Vegetables,900,720,180,Summer
+Fruits,900,720,180,All Seasons
+Fruits,900,720,180,All Seasons
+Dairy Products,950,710,240,All Seasons
+Meat,900,700,200,All Seasons
+Vegetables,850,650,200,Winter
+Fruits,800,620,180,Summer
+Meat,950,750,200,All Seasons
+Baked Goods,1000,800,200,Summer
+Dairy Products,850,650,200,All Seasons
+Vegetables,871,702,169,All Seasons
+Baked Goods,950,750,200,Winter
+Baked Goods,800,620,180,Summer
+Fruits,850,650,200,Winter
+Baked Goods,800,620,180,Winter
+Dairy Products,850,680,170,Winter
+Meat,998,888,110,All Seasons
+Fruits,800,620,180,Winter
+Fruits,900,720,180,All Seasons
+Meat,900,720,180,All Seasons
+Dairy Products,780,607,173,Summer
+Fruits,850,680,170,All Seasons
+Baked Goods,900,700,200,Winter
+Baked Goods,850,710,140,Winter
+Fruits,1000,800,200,Summer
+Fruits,1000,800,200,All Seasons
+Fruits,997,891,106,Summer
+Baked Goods,800,620,180,Winter
+Baked Goods,800,620,180,Summer
+Vegetables,900,720,180,Winter
+Vegetables,950,750,200,Winter
+Baked Goods,1000,800,200,Summer
+Baked Goods,900,720,180,Summer
+Dairy Products,900,700,200,All Seasons
+Baked Goods,850,650,200,Summer
+Baked Goods,850,680,170,All Seasons
+Dairy Products,900,720,180,All Seasons
+Meat,850,650,200,Winter
+Vegetables,1000,800,200,Summer
+Fruits,1000,800,200,All Seasons
+Meat,900,700,200,Winter
+Dairy Products,997,891,106,All Seasons
+Baked Goods,850,650,200,All Seasons
+Fruits,900,720,180,Summer
+Fruits,800,620,180,Summer
+Fruits,850,680,170,Winter
+Dairy Products,1000,800,200,Summer
+Baked Goods,950,750,200,Summer
+Baked Goods,1000,800,200,Winter
+Baked Goods,850,650,200,Winter
+Dairy Products,1000,800,200,All Seasons
+Fruits,1000,800,200,All Seasons
+Baked Goods,850,710,140,All Seasons
+Baked Goods,950,750,200,All Seasons
+Baked Goods,900,720,180,All Seasons
+Baked Goods,800,620,180,Winter
+Dairy Products,850,680,170,All Seasons
+Dairy Products,850,650,200,All Seasons
+Dairy Products,850,650,200,All Seasons
+Baked Goods,800,620,180,All Seasons
+Baked Goods,900,700,200,All Seasons
+Dairy Products,950,750,200,Winter
+Dairy Products,905,742,163,Summer
+Baked Goods,1000,780,220,Summer
+Dairy Products,850,650,200,All Seasons
+Baked Goods,1000,800,200,Winter
+Baked Goods,1000,800,200,All Seasons
+Baked Goods,1000,800,200,Winter
+Dairy Products,1000,800,200,Winter
+Dairy Products,900,720,180,Winter
+Dairy Products,905,742,163,Summer
+Dairy Products,1000,800,200,Summer
+Dairy Products,900,720,180,Winter
+Baked Goods,900,700,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Baked Goods,1000,800,200,Winter
+Vegetables,950,750,200,Winter
+Vegetables,996,829,167,Winter
+Baked Goods,900,780,120,Winter
+Baked Goods,850,650,200,All Seasons
+Meat,850,650,200,Winter
+Dairy Products,850,650,200,All Seasons
+Baked Goods,900,700,200,Summer
+Dairy Products,980,720,260,All Seasons
+Baked Goods,900,700,200,Summer
+Dairy Products,900,780,120,Winter
+Baked Goods,900,720,180,Summer
+Dairy Products,900,700,200,Summer
+Dairy Products,982,797,185,Winter
+Dairy Products,850,680,170,All Seasons
+Baked Goods,950,750,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Meat,998,888,110,Winter
+Meat,900,720,180,Summer
+Meat,871,702,169,Summer
+Meat,950,700,250,Winter
+Meat,950,750,200,Summer
+Vegetables,850,680,170,Summer
+Meat,950,700,250,All Seasons
+Fruits,980,720,260,Summer
+Fruits,950,750,200,Winter
+Meat,900,700,200,Winter
+Meat,950,750,200,Summer
+Baked Goods,920,767,153,Winter
+Meat,900,700,200,All Seasons
+Meat,900,700,200,Winter
+Fruits,850,680,170,Winter
+Fruits,980,720,260,All Seasons
+Baked Goods,900,720,180,All Seasons
+Meat,900,650,250,Summer
+Vegetables,780,607,173,All Seasons
+Meat,850,650,200,Summer
+Meat,850,650,200,Winter
+Fruits,950,750,200,Summer
+Fruits,993,838,155,Winter
+Dairy Products,850,650,200,All Seasons
+Meat,850,710,140,Winter
+Baked Goods,980,780,200,Winter
+Baked Goods,900,720,180,Summer
+Fruits,1000,800,200,Winter
+Meat,984,853,131,Summer
+Baked Goods,950,750,200,Summer
+Baked Goods,1000,800,200,Winter
+Meat,1000,800,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,995,834,161,Summer
+Fruits,850,680,170,All Seasons
+Baked Goods,950,800,150,Summer
+Baked Goods,1000,800,200,All Seasons
+Meat,950,750,200,All Seasons
+Fruits,984,853,131,All Seasons
+Dairy Products,984,853,131,Winter
+Dairy Products,950,640,310,Summer
+Dairy Products,950,750,200,Winter
+Dairy Products,900,700,200,Winter
+Dairy Products,900,720,180,All Seasons
+Meat,920,767,153,Summer
+Meat,800,620,180,Summer
+Fruits,850,680,170,Winter
+Fruits,997,891,106,Winter
+Baked Goods,995,834,161,All Seasons
+Vegetables,1000,630,370,Summer
+Baked Goods,850,650,200,Winter
+Dairy Products,900,700,200,Summer
+Baked Goods,950,750,200,All Seasons
+Dairy Products,900,720,180,All Seasons
+Dairy Products,850,710,140,Winter
+Baked Goods,850,680,170,All Seasons
+Dairy Products,900,720,180,All Seasons
+Baked Goods,900,660,240,Summer
+Meat,950,800,150,Winter
+Meat,800,620,180,Summer
+Meat,888,675,213,All Seasons
+Meat,900,720,180,Winter
+Meat,1000,800,200,Winter
+Dairy Products,900,800,100,Winter
+Dairy Products,900,720,180,All Seasons
+Vegetables,950,700,250,All Seasons
+Baked Goods,950,750,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Dairy Products,800,620,180,Summer
+Baked Goods,1000,800,200,All Seasons
+Baked Goods,800,620,180,All Seasons
+Fruits,984,853,131,Winter
+Meat,1000,800,200,Winter
+Fruits,850,650,200,Summer
+Vegetables,950,750,200,Winter
+Meat,900,700,200,Winter
+Meat,1000,780,220,Winter
+Meat,850,650,200,Winter
+Vegetables,800,620,180,Winter
+Baked Goods,998,888,110,Winter
+Meat,1000,800,200,All Seasons
+Baked Goods,997,891,106,Summer
+Fruits,1000,800,200,Winter
+Meat,850,661,189,Summer
+Vegetables,995,834,161,All Seasons
+Fruits,950,750,200,Winter
+Vegetables,950,750,200,Summer
+Baked Goods,980,780,200,Winter
+Fruits,1000,800,200,All Seasons
+Baked Goods,848,647,201,Winter
+Dairy Products,900,720,180,Winter
+Meat,950,750,200,Summer
+Baked Goods,780,607,173,All Seasons
+Baked Goods,850,680,170,Summer
+Baked Goods,1000,800,200,Winter
+Dairy Products,800,620,180,Winter
+Baked Goods,1000,800,200,Summer
+Baked Goods,850,650,200,Summer
+Baked Goods,900,720,180,Winter
+Vegetables,850,650,200,Summer
+Baked Goods,850,680,170,Winter
+Dairy Products,900,700,200,Winter
+Dairy Products,1000,630,370,Winter
+Vegetables,950,750,200,Summer
+Fruits,850,661,189,All Seasons
+Baked Goods,848,647,201,Winter
+Baked Goods,980,780,200,All Seasons
+Baked Goods,950,750,200,Winter
+Dairy Products,900,700,200,Summer
+Baked Goods,980,780,200,Winter
+Fruits,1000,780,220,Winter
+Vegetables,900,700,200,Winter
+Baked Goods,900,700,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Baked Goods,900,720,180,All Seasons
+Baked Goods,900,700,200,All Seasons
+Baked Goods,850,680,170,Winter
+Baked Goods,782,608,174,All Seasons
+Baked Goods,900,720,180,All Seasons
+Baked Goods,900,700,200,Summer
+Dairy Products,950,640,310,All Seasons
+Meat,1000,650,350,Summer
+Meat,977,830,147,Winter
+Fruits,950,750,200,All Seasons
+Baked Goods,900,700,200,Summer
+Dairy Products,800,620,180,Winter
+Baked Goods,980,680,300,All Seasons
+Baked Goods,950,750,200,All Seasons
+Dairy Products,950,750,200,All Seasons
+Fruits,900,720,180,Summer
+Meat,900,700,200,Winter
+Meat,980,780,200,Winter
+Meat,900,700,200,Winter
+Meat,850,650,200,Winter
+Fruits,1000,780,220,Summer
+Meat,850,680,170,Summer
+Meat,950,750,200,Summer
+Meat,900,720,180,All Seasons
+Meat,980,780,200,Winter
+Meat,850,650,200,Winter
+Meat,850,680,170,Summer
+Meat,996,829,167,Winter
+Dairy Products,900,720,180,Summer
+Meat,1000,800,200,Summer
+Fruits,950,800,150,All Seasons
+Meat,782,608,174,Winter
+Fruits,900,720,180,Summer
+Vegetables,950,750,200,Summer
+Vegetables,850,680,170,Winter
+Meat,950,750,200,Summer
+Fruits,950,700,250,All Seasons
+Fruits,888,675,213,Winter
+Fruits,950,620,330,Summer
+Baked Goods,1000,800,200,Summer
+Vegetables,871,702,169,Winter
+Baked Goods,900,720,180,All Seasons
+Meat,982,797,185,Winter
+Vegetables,900,720,180,All Seasons
+Meat,900,700,200,Winter
+Dairy Products,900,700,200,Winter
+Fruits,900,700,200,All Seasons
+Baked Goods,900,720,180,Winter
+Meat,1000,630,370,Winter
+Meat,900,720,180,Summer
+Meat,850,680,170,All Seasons
+Fruits,850,680,170,Summer
+Meat,900,720,180,Summer
+Meat,900,700,200,Winter
+Fruits,850,680,170,Summer
+Meat,1000,800,200,All Seasons
+Meat,850,650,200,Summer
+Baked Goods,1000,800,200,Summer
+Baked Goods,905,742,163,Summer
+Vegetables,950,750,200,Summer
+Fruits,850,650,200,Winter
+Baked Goods,980,720,260,Summer
+Vegetables,900,720,180,Winter
+Fruits,1000,800,200,Summer
+Fruits,900,720,180,Winter
+Meat,980,650,330,Winter
+Baked Goods,950,750,200,Winter
+Vegetables,1000,800,200,Winter
+Meat,850,650,200,Summer
+Vegetables,995,834,161,Winter
+Vegetables,950,750,200,Winter
+Vegetables,1000,800,200,Summer
+Baked Goods,850,680,170,Summer
+Fruits,850,650,200,All Seasons
+Baked Goods,900,700,200,Summer
+Vegetables,850,650,200,Summer
+Baked Goods,900,700,200,Winter
+Vegetables,900,700,200,Summer
+Dairy Products,850,680,170,Winter
+Baked Goods,977,832,145,Winter
+Vegetables,900,700,200,Summer
+Dairy Products,900,700,200,Winter
+Dairy Products,980,720,260,All Seasons
+Vegetables,900,720,180,Winter
+Dairy Products,900,700,200,Winter
+Baked Goods,1000,800,200,Summer
+Meat,950,750,200,Summer
+Baked Goods,900,720,180,Summer
+Meat,800,620,180,Winter
+Dairy Products,888,675,213,All Seasons
+Vegetables,950,750,200,Winter
+Dairy Products,900,720,180,Winter
+Fruits,1000,780,220,All Seasons
+Dairy Products,1000,800,200,Winter
+Vegetables,900,700,200,Summer
+Baked Goods,888,675,213,All Seasons
+Baked Goods,850,800,50,Summer
+Meat,850,650,200,Winter
+Baked Goods,995,834,161,Summer
+Baked Goods,900,720,180,All Seasons
+Baked Goods,1000,800,200,All Seasons
+Fruits,800,620,180,Summer
+Baked Goods,850,680,170,Summer
+Baked Goods,900,700,200,Winter
+Baked Goods,800,620,180,Summer
+Fruits,850,680,170,All Seasons
+Dairy Products,850,661,189,Winter
+Dairy Products,888,675,213,Summer
+Dairy Products,1000,800,200,Summer
+Vegetables,980,780,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Fruits,950,750,200,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Baked Goods,950,620,330,All Seasons
+Baked Goods,800,620,180,Winter
+Meat,782,608,174,Summer
+Dairy Products,850,650,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Dairy Products,950,750,200,All Seasons
+Baked Goods,850,650,200,Winter
+Dairy Products,1000,800,200,All Seasons
+Baked Goods,900,670,230,All Seasons
+Dairy Products,850,650,200,All Seasons
+Dairy Products,850,650,200,All Seasons
+Dairy Products,782,608,174,Winter
+Baked Goods,950,750,200,All Seasons
+Dairy Products,850,650,200,All Seasons
+Dairy Products,850,650,200,All Seasons
+Dairy Products,850,650,200,All Seasons
+Meat,871,702,169,Winter
+Meat,977,830,147,All Seasons
+Meat,950,800,150,Summer
+Meat,800,620,180,Summer
+Meat,950,750,200,Summer
+Meat,850,650,200,All Seasons
+Meat,874,690,184,Winter
+Meat,950,620,330,Winter
+Meat,900,700,200,Winter
+Meat,950,640,310,Winter
+Meat,982,842,140,Summer
+Meat,900,700,200,Winter
+Meat,1000,800,200,Winter
+Vegetables,997,891,106,Summer
+Meat,800,620,180,Summer
+Meat,950,750,200,Winter
+Meat,900,700,200,All Seasons
+Vegetables,871,702,169,Summer
+Meat,950,750,200,Winter
+Meat,900,700,200,Summer
+Fruits,1000,850,150,Winter
+Meat,995,834,161,Summer
+Meat,850,650,200,All Seasons
+Meat,1000,850,150,Summer
+Meat,995,834,161,Winter
+Meat,850,680,170,Winter
+Meat,980,680,300,Winter
+Meat,850,680,170,Winter
+Meat,996,829,167,Summer
+Meat,900,720,180,Winter
+Meat,1000,800,200,Summer
+Fruits,800,620,180,Summer
+Dairy Products,800,620,180,Winter
+Fruits,850,650,200,Winter
+Dairy Products,900,700,200,Summer
+Dairy Products,1000,800,200,All Seasons
+Baked Goods,977,830,147,Winter
+Fruits,900,700,200,Summer
+Fruits,900,720,180,All Seasons
+Baked Goods,850,680,170,Winter
+Vegetables,950,750,200,Summer
+Meat,984,853,131,Summer
+Vegetables,900,700,200,All Seasons
+Baked Goods,900,720,180,Winter
+Dairy Products,900,720,180,All Seasons
+Baked Goods,900,700,200,All Seasons
+Meat,950,750,200,All Seasons
+Baked Goods,850,650,200,Summer
+Meat,800,620,180,Winter
+Meat,800,620,180,Summer
+Meat,850,650,200,Winter
+Fruits,850,650,200,Winter
+Meat,800,620,180,Summer
+Meat,900,670,230,Summer
+Meat,850,680,170,All Seasons
+Fruits,900,700,200,Summer
+Dairy Products,900,720,180,Winter
+Baked Goods,900,680,220,Summer
+Vegetables,1000,850,150,Summer
+Meat,980,680,300,Winter
+Meat,980,780,200,Summer
+Vegetables,980,720,260,All Seasons
+Meat,950,750,200,Winter
+Meat,950,750,200,Summer
+Vegetables,800,620,180,Summer
+Dairy Products,800,620,180,Winter
+Baked Goods,850,710,140,Summer
+Baked Goods,800,620,180,Summer
+Baked Goods,850,680,170,All Seasons
+Meat,1000,800,200,All Seasons
+Meat,850,650,200,Winter
+Meat,850,680,170,All Seasons
+Vegetables,950,750,200,Summer
+Meat,1000,800,200,Winter
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,980,650,330,Summer
+Dairy Products,900,720,180,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Baked Goods,900,700,200,All Seasons
+Baked Goods,850,650,200,Winter
+Baked Goods,950,750,200,All Seasons
+Baked Goods,850,650,200,Summer
+Baked Goods,900,720,180,All Seasons
+Fruits,850,680,170,All Seasons
+Baked Goods,848,647,201,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,1000,780,220,All Seasons
+Fruits,1000,800,200,All Seasons
+Fruits,850,650,200,Winter
+Meat,900,720,180,Summer
+Meat,900,720,180,All Seasons
+Fruits,850,680,170,All Seasons
+Baked Goods,800,620,180,Summer
+Vegetables,874,690,184,Summer
+Fruits,998,888,110,Summer
+Vegetables,800,620,180,Winter
+Meat,950,750,200,All Seasons
+Fruits,900,700,200,Winter
+Fruits,950,800,150,All Seasons
+Fruits,905,742,163,All Seasons
+Meat,970,692,278,Summer
+Fruits,900,720,180,All Seasons
+Meat,950,750,200,Summer
+Dairy Products,900,780,120,All Seasons
+Baked Goods,850,650,200,All Seasons
+Baked Goods,848,647,201,All Seasons
+Dairy Products,982,797,185,All Seasons
+Dairy Products,900,700,200,Summer
+Baked Goods,850,680,170,Winter
+Baked Goods,980,720,260,Summer
+Vegetables,850,680,170,Summer
+Baked Goods,800,620,180,Winter
+Baked Goods,995,834,161,Winter
+Meat,900,700,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Baked Goods,800,620,180,Summer
+Baked Goods,888,675,213,All Seasons
+Baked Goods,1000,800,200,All Seasons
+Vegetables,980,650,330,Summer
+Fruits,900,700,200,All Seasons
+Fruits,950,750,200,Winter
+Vegetables,905,742,163,Winter
+Baked Goods,980,720,260,All Seasons
+Fruits,998,888,110,Winter
+Baked Goods,850,680,170,Winter
+Baked Goods,850,680,170,Winter
+Fruits,980,680,300,Summer
+Dairy Products,900,700,200,Summer
+Meat,950,700,250,All Seasons
+Dairy Products,980,680,300,Summer
+Fruits,959,839,120,All Seasons
+Dairy Products,980,780,200,Summer
+Baked Goods,1000,800,200,All Seasons
+Baked Goods,848,647,201,All Seasons
+Baked Goods,800,620,180,All Seasons
+Dairy Products,850,680,170,Winter
+Dairy Products,980,680,300,All Seasons
+Baked Goods,1000,800,200,Summer
+Vegetables,1000,800,200,Winter
+Dairy Products,900,720,180,Summer
+Fruits,850,650,200,All Seasons
+Fruits,993,838,155,Winter
+Baked Goods,800,620,180,Summer
+Fruits,900,720,180,All Seasons
+Meat,850,650,200,Winter
+Fruits,850,800,50,All Seasons
+Vegetables,950,750,200,All Seasons
+Baked Goods,800,620,180,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,950,700,250,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,998,888,110,All Seasons
+Dairy Products,950,750,200,Winter
+Vegetables,1000,630,370,Winter
+Dairy Products,850,650,200,All Seasons
+Baked Goods,900,720,180,All Seasons
+Baked Goods,782,608,174,All Seasons
+Baked Goods,850,750,100,Winter
+Baked Goods,800,620,180,Winter
+Dairy Products,950,750,200,All Seasons
+Dairy Products,950,640,310,Summer
+Baked Goods,950,750,200,Winter
+Baked Goods,800,620,180,All Seasons
+Dairy Products,800,620,180,All Seasons
+Dairy Products,900,800,100,All Seasons
+Dairy Products,950,750,200,All Seasons
+Baked Goods,850,650,200,All Seasons
+Meat,950,750,200,Winter
+Dairy Products,950,750,200,Winter
+Dairy Products,900,700,200,All Seasons
+Dairy Products,850,680,170,Summer
+Dairy Products,850,680,170,All Seasons
+Dairy Products,984,853,131,All Seasons
+Dairy Products,900,720,180,All Seasons
+Fruits,800,620,180,All Seasons
+Baked Goods,782,608,174,All Seasons
+Dairy Products,800,620,180,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Meat,900,720,180,Winter
+Meat,900,700,200,Summer
+Meat,871,702,169,All Seasons
+Meat,850,650,200,Summer
+Fruits,980,720,260,Winter
+Meat,900,720,180,Winter
+Baked Goods,943,684,259,Summer
+Meat,850,680,170,All Seasons
+Meat,984,853,131,Summer
+Meat,1000,800,200,Summer
+Meat,900,720,180,Summer
+Vegetables,995,834,161,Summer
+Meat,900,700,200,All Seasons
+Fruits,800,620,180,Summer
+Vegetables,1000,800,200,Summer
+Meat,900,700,200,Winter
+Meat,900,700,200,All Seasons
+Fruits,978,812,166,Summer
+Fruits,997,891,106,All Seasons
+Meat,900,700,200,Winter
+Fruits,900,670,230,All Seasons
+Baked Goods,800,620,180,Winter
+Baked Goods,1000,800,200,Winter
+Dairy Products,850,650,200,All Seasons
+Baked Goods,1000,800,200,Winter
+Vegetables,900,700,200,Summer
+Dairy Products,980,780,200,Winter
+Dairy Products,900,720,180,All Seasons
+Baked Goods,850,680,170,All Seasons
+Vegetables,950,750,200,Summer
+Baked Goods,800,620,180,Winter
+Dairy Products,900,720,180,Summer
+Fruits,800,620,180,All Seasons
+Baked Goods,950,750,200,Winter
+Baked Goods,978,812,166,Winter
+Baked Goods,800,620,180,Winter
+Fruits,950,750,200,All Seasons
+Vegetables,900,720,180,All Seasons
+Vegetables,950,750,200,Winter
+Vegetables,850,650,200,Summer
+Baked Goods,900,720,180,All Seasons
+Fruits,996,829,167,Winter
+Baked Goods,854,680,174,All Seasons
+Dairy Products,850,800,50,Summer
+Dairy Products,900,700,200,Winter
+Dairy Products,980,680,300,All Seasons
+Baked Goods,1000,800,200,Summer
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,782,608,174,Winter
+Vegetables,1000,630,370,Summer
+Dairy Products,800,620,180,All Seasons
+Dairy Products,900,700,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Baked Goods,900,700,200,Winter
+Dairy Products,1000,800,200,Winter
+Baked Goods,782,608,174,Winter
+Fruits,850,661,189,All Seasons
+Meat,980,720,260,Winter
+Fruits,900,700,200,Winter
+Meat,997,891,106,Winter
+Meat,800,620,180,Winter
+Meat,888,675,213,Winter
+Dairy Products,950,750,200,Winter
+Dairy Products,900,700,200,Winter
+Dairy Products,900,720,180,All Seasons
+Meat,900,700,200,Winter
+Meat,900,720,180,Winter
+Meat,980,780,200,Summer
+Meat,982,842,140,Summer
+Baked Goods,850,650,200,Winter
+Baked Goods,1000,650,350,Summer
+Vegetables,900,700,200,Winter
+Meat,850,650,200,Winter
+Meat,900,720,180,Winter
+Meat,850,650,200,Winter
+Meat,950,750,200,Winter
+Meat,1000,780,220,Summer
+Meat,1000,800,200,All Seasons
+Fruits,950,750,200,Winter
+Vegetables,1000,800,200,Winter
+Fruits,950,750,200,All Seasons
+Fruits,850,650,200,Summer
+Fruits,850,680,170,All Seasons
+Fruits,1000,800,200,Summer
+Meat,900,700,200,Winter
+Baked Goods,800,620,180,Winter
+Fruits,980,720,260,Winter
+Meat,1000,630,370,All Seasons
+Meat,984,853,131,Winter
+Fruits,1000,780,220,Summer
+Vegetables,980,720,260,Winter
+Meat,997,891,106,All Seasons
+Fruits,850,680,170,Winter
+Baked Goods,1000,800,200,Winter
+Fruits,1000,850,150,Winter
+Vegetables,800,620,180,Summer
+Fruits,850,661,189,Winter
+Fruits,800,620,180,Winter
+Meat,900,720,180,All Seasons
+Dairy Products,850,650,200,Summer
+Baked Goods,950,620,330,Summer
+Baked Goods,970,692,278,All Seasons
+Dairy Products,900,720,180,Summer
+Dairy Products,900,700,200,Winter
+Baked Goods,1000,800,200,Winter
+Baked Goods,984,853,131,All Seasons
+Baked Goods,900,720,180,Summer
+Dairy Products,900,720,180,All Seasons
+Dairy Products,800,620,180,All Seasons
+Dairy Products,850,710,140,Summer
+Dairy Products,800,620,180,Summer
+Fruits,1000,800,200,All Seasons
+Baked Goods,1000,630,370,All Seasons
+Baked Goods,850,680,170,All Seasons
+Baked Goods,850,650,200,All Seasons
+Baked Goods,982,797,185,Winter
+Baked Goods,900,700,200,All Seasons
+Baked Goods,950,750,200,All Seasons
+Dairy Products,850,650,200,All Seasons
+Meat,950,750,200,Summer
+Meat,980,720,260,Winter
+Vegetables,850,680,170,Winter
+Meat,900,720,180,All Seasons
+Dairy Products,993,838,155,Winter
+Vegetables,978,812,166,Summer
+Dairy Products,900,700,200,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,950,750,200,Winter
+Meat,900,700,200,Winter
+Meat,850,680,170,Summer
+Fruits,900,720,180,Summer
+Baked Goods,920,767,153,Winter
+Vegetables,800,620,180,Summer
+Baked Goods,850,650,200,All Seasons
+Dairy Products,900,720,180,Summer
+Baked Goods,950,750,200,All Seasons
+Baked Goods,900,720,180,Summer
+Dairy Products,850,680,170,Winter
+Baked Goods,800,620,180,Summer
+Dairy Products,850,710,140,All Seasons
+Baked Goods,905,742,163,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,950,750,200,All Seasons
+Meat,1000,800,200,All Seasons
+Vegetables,871,702,169,All Seasons
+Meat,800,620,180,Winter
+Fruits,1000,800,200,All Seasons
+Meat,950,750,200,Winter
+Meat,900,650,250,Winter
+Meat,984,853,131,Summer
+Meat,782,608,174,Winter
+Meat,900,720,180,Winter
+Fruits,970,692,278,Summer
+Meat,950,640,310,Summer
+Meat,800,620,180,Winter
+Meat,950,750,200,Summer
+Vegetables,800,620,180,Summer
+Meat,980,780,200,Summer
+Baked Goods,900,720,180,Summer
+Fruits,950,750,200,Winter
+Vegetables,950,750,200,Winter
+Fruits,850,680,170,All Seasons
+Fruits,950,750,200,Winter
+Meat,1000,800,200,Winter
+Fruits,900,720,180,Summer
+Meat,850,650,200,Winter
+Baked Goods,1000,800,200,Summer
+Fruits,850,680,170,Winter
+Fruits,900,720,180,Summer
+Vegetables,900,720,180,Winter
+Meat,800,620,180,Winter
+Fruits,950,750,200,Summer
+Baked Goods,1000,800,200,Winter
+Fruits,950,750,200,Winter
+Meat,950,750,200,All Seasons
+Baked Goods,900,700,200,Summer
+Meat,950,750,200,Summer
+Vegetables,1000,800,200,Summer
+Vegetables,850,680,170,All Seasons
+Fruits,850,710,140,All Seasons
+Vegetables,800,620,180,Summer
+Baked Goods,950,750,200,All Seasons
+Fruits,980,780,200,Summer
+Fruits,900,700,200,Winter
+Dairy Products,943,684,259,All Seasons
+Baked Goods,900,720,180,Summer
+Vegetables,950,750,200,Winter
+Fruits,850,650,200,Winter
+Vegetables,1000,800,200,Summer
+Baked Goods,950,750,200,Winter
+Fruits,1000,800,200,All Seasons
+Baked Goods,900,720,180,All Seasons
+Meat,850,680,170,All Seasons
+Baked Goods,950,750,200,All Seasons
+Vegetables,950,620,330,Summer
+Fruits,1000,800,200,Winter
+Baked Goods,800,620,180,All Seasons
+Dairy Products,1000,630,370,All Seasons
+Dairy Products,993,838,155,Summer
+Vegetables,900,700,200,Summer
+Dairy Products,900,700,200,All Seasons
+Fruits,850,680,170,All Seasons
+Dairy Products,950,750,200,Winter
+Dairy Products,900,700,200,All Seasons
+Vegetables,850,680,170,All Seasons
+Baked Goods,850,650,200,Winter
+Baked Goods,800,620,180,All Seasons
+Dairy Products,905,742,163,All Seasons
+Baked Goods,980,780,200,Winter
+Dairy Products,900,700,200,All Seasons
+Baked Goods,850,680,170,Winter
+Baked Goods,950,750,200,All Seasons
+Baked Goods,900,700,200,All Seasons
+Meat,900,700,200,Winter
+Fruits,1000,800,200,Winter
+Fruits,900,700,200,Summer
+Fruits,1000,800,200,All Seasons
+Dairy Products,1000,800,200,Winter
+Vegetables,980,680,300,All Seasons
+Baked Goods,1000,800,200,All Seasons
+Dairy Products,850,680,170,Winter
+Dairy Products,850,650,200,Winter
+Dairy Products,850,680,170,All Seasons
+Dairy Products,850,650,200,Winter
+Baked Goods,980,780,200,Winter
+Dairy Products,950,750,200,All Seasons
+Baked Goods,850,650,200,Summer
+Baked Goods,900,700,200,All Seasons
+Baked Goods,1000,800,200,Summer
+Baked Goods,874,690,184,All Seasons
+Dairy Products,950,750,200,Summer
+Baked Goods,997,891,106,All Seasons
+Baked Goods,950,750,200,All Seasons
+Baked Goods,848,647,201,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Fruits,850,650,200,All Seasons
+Dairy Products,800,620,180,All Seasons
+Baked Goods,900,720,180,Winter
+Dairy Products,900,720,180,All Seasons
+Baked Goods,850,650,200,All Seasons
+Baked Goods,850,650,200,All Seasons
+Meat,943,684,259,Summer
+Meat,850,680,170,Winter
+Meat,900,700,200,Winter
+Meat,900,700,200,Winter
+Meat,950,710,240,All Seasons
+Meat,978,812,166,Winter
+Meat,995,834,161,Summer
+Meat,850,650,200,Summer
+Meat,1000,800,200,Winter
+Fruits,850,680,170,Summer
+Meat,900,700,200,Winter
+Meat,900,700,200,Winter
+Meat,1000,800,200,Winter
+Meat,900,720,180,Winter
+Meat,850,650,200,All Seasons
+Vegetables,900,720,180,All Seasons
+Meat,900,700,200,Winter
+Meat,900,720,180,Winter
+Fruits,1000,800,200,Winter
+Meat,950,710,240,Summer
+Fruits,850,650,200,All Seasons
+Meat,900,700,200,Summer
+Vegetables,900,700,200,Winter
+Vegetables,980,680,300,Winter
+Baked Goods,995,834,161,Summer
+Fruits,850,680,170,Winter
+Fruits,850,800,50,Winter
+Baked Goods,900,700,200,Winter
+Meat,950,750,200,All Seasons
+Meat,850,650,200,All Seasons
+Meat,1000,630,370,All Seasons
+Meat,800,620,180,Winter
+Baked Goods,1000,780,220,Winter
+Fruits,850,680,170,All Seasons
+Fruits,900,700,200,All Seasons
+Baked Goods,1000,800,200,Winter
+Baked Goods,1000,800,200,Winter
+Dairy Products,850,680,170,Summer
+Baked Goods,900,700,200,All Seasons
+Baked Goods,850,680,170,Summer
+Meat,950,750,200,Winter
+Vegetables,900,700,200,Winter
+Meat,900,720,180,Winter
+Dairy Products,1000,630,370,Winter
+Dairy Products,850,650,200,All Seasons
+Meat,900,700,200,Summer
+Meat,900,720,180,Winter
+Fruits,950,750,200,All Seasons
+Dairy Products,850,650,200,Summer
+Dairy Products,950,750,200,Winter
+Fruits,950,750,200,Summer
+Vegetables,950,750,200,Summer
+Fruits,900,650,250,Winter
+Fruits,900,720,180,Summer
+Meat,893,667,226,Summer
+Fruits,1000,800,200,Summer
+Fruits,850,750,100,Winter
+Meat,900,700,200,Winter
+Fruits,959,839,120,All Seasons
+Baked Goods,888,675,213,Winter
+Vegetables,900,720,180,Winter
+Fruits,980,650,330,Winter
+Fruits,900,700,200,Summer
+Vegetables,800,620,180,Summer
+Meat,950,750,200,All Seasons
+Baked Goods,980,650,330,Winter
+Vegetables,850,680,170,Summer
+Dairy Products,980,720,260,Winter
+Vegetables,1000,630,370,Summer
+Vegetables,850,650,200,Summer
+Vegetables,900,700,200,Summer
+Vegetables,850,661,189,Winter
+Fruits,950,700,250,Winter
+Dairy Products,850,680,170,All Seasons
+Dairy Products,900,720,180,All Seasons
+Baked Goods,850,661,189,Summer
+Dairy Products,980,780,200,All Seasons
+Baked Goods,800,620,180,Summer
+Fruits,850,650,200,Summer
+Vegetables,996,829,167,Summer
+Dairy Products,900,720,180,All Seasons
+Baked Goods,900,700,200,Summer
+Dairy Products,900,720,180,Winter
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Meat,997,891,106,Summer
+Meat,850,650,200,Winter
+Baked Goods,850,680,170,Winter
+Meat,993,838,155,Winter
+Baked Goods,989,872,117,Winter
+Baked Goods,997,891,106,All Seasons
+Baked Goods,1000,800,200,Summer
+Baked Goods,900,700,200,Summer
+Vegetables,900,720,180,All Seasons
+Vegetables,850,650,200,Winter
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Baked Goods,850,680,170,Winter
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,950,750,200,All Seasons
+Dairy Products,1000,800,200,All Seasons
+Dairy Products,850,680,170,All Seasons
+Dairy Products,1000,800,200,Winter
+Baked Goods,950,750,200,Winter
+Dairy Products,1000,800,200,All Seasons
+Fruits,850,650,200,Winter
+Baked Goods,970,692,278,All Seasons
+Baked Goods,1000,800,200,All Seasons
+Baked Goods,900,720,180,Summer
+Dairy Products,800,620,180,All Seasons
+Baked Goods,1000,850,150,All Seasons
+Fruits,850,680,170,Summer
+Meat,980,780,200,Winter
+Meat,900,720,180,Winter
+Meat,780,607,173,Winter
+Meat,997,891,106,Winter
+Meat,893,667,226,Summer
+Dairy Products,850,680,170,All Seasons
+Baked Goods,850,680,170,All Seasons
+Dairy Products,850,680,170,All Seasons
+Baked Goods,1000,800,200,Winter
+Dairy Products,900,720,180,All Seasons
+Dairy Products,850,680,170,Summer
+Baked Goods,997,891,106,All Seasons
+Dairy Products,993,838,155,All Seasons
+Dairy Products,950,750,200,All Seasons
+Baked Goods,982,842,140,All Seasons
+Meat,970,670,300,Winter
+Meat,943,684,259,Winter
+Meat,900,650,250,Winter
+Meat,900,720,180,Summer
+Meat,800,620,180,Winter
+Meat,920,767,153,All Seasons
+Meat,995,834,161,Winter
+Meat,850,680,170,Summer
+Meat,950,640,310,All Seasons
+Fruits,980,780,200,Winter
+Dairy Products,900,720,180,Summer
+Fruits,980,650,330,Winter
+Fruits,871,702,169,All Seasons
+Fruits,900,700,200,Winter
+Vegetables,893,667,226,Summer
+Fruits,900,720,180,All Seasons
+Baked Goods,998,888,110,Winter
+Meat,950,750,200,Winter
+Fruits,900,700,200,All Seasons
+Vegetables,900,700,200,Summer
+Dairy Products,989,872,117,All Seasons
+Fruits,980,780,200,All Seasons
+Vegetables,996,829,167,All Seasons
+Baked Goods,800,620,180,All Seasons
+Meat,800,620,180,Summer
+Fruits,950,750,200,Winter
+Dairy Products,850,650,200,Winter
+Fruits,1000,630,370,Winter
+Dairy Products,900,720,180,Summer
+Meat,900,720,180,Winter
+Meat,950,710,240,Summer
+Fruits,997,891,106,Winter
+Meat,997,891,106,Summer
+Meat,850,680,170,Summer
+Meat,970,692,278,Winter
+Vegetables,900,700,200,Summer
+Baked Goods,900,720,180,Winter
+Fruits,850,710,140,Summer
+Vegetables,850,680,170,Summer
+Meat,900,720,180,All Seasons
+Meat,900,700,200,Summer
+Vegetables,1000,780,220,Winter
+Fruits,980,780,200,All Seasons
+Fruits,1000,800,200,Winter
+Fruits,950,750,200,All Seasons
+Meat,900,720,180,Summer
+Meat,950,750,200,All Seasons
+Fruits,996,829,167,Summer
+Vegetables,950,750,200,Summer
+Fruits,997,891,106,All Seasons
+Meat,950,750,200,Winter
+Meat,997,891,106,Winter
+Baked Goods,850,710,140,Summer
+Baked Goods,943,684,259,Winter
+Fruits,800,620,180,All Seasons
+Fruits,850,650,200,All Seasons
+Baked Goods,1000,800,200,Winter
